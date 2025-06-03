@@ -1,0 +1,16 @@
+# Chainlit configuration
+
+# UI customization
+ui:
+  favicon: favicon.png
+  logo: logo_light.png
+  auditor: favicon.png
+
+# App information
+name: SAMD Regulatory Assistant
+description: FDA Regulatory Assistant for Software as a Medical Device (SaMD)
+
+# Theme (optional)
+theme:
+  # Primary color
+  primary_color: "#4B7BF5" 

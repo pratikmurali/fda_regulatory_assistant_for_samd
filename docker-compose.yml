@@ -1,0 +1,19 @@
+
+# Removed obsolete version line
+services:
+  # app:
+  #   build: .
+  #   ports:
+  #     - "7860:7860"
+  #   environment:
+  #     REDIS_URL: redis://redis:6379  # Updated to use service name
+  #   depends_on:
+  #     - redis
+
+  redis:
+    image: redis/redis-stack:latest
+    container_name: redis-stack
+    ports:
+      - "6379:6379"  # Expose Redis port to host machine
+      - "8001:8001" # insight UI port
+    # Removed custom command to use defaults

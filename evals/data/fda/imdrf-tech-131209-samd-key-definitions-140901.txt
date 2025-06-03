@@ -1,0 +1,42 @@
+IMDRF/SaMD WG/N10FINAL:2013 
+_______________________________________________________________________________________ 
+ 
+ 
+and post-market requirements, such as adverse event reporting and notification of 
+corrective actions. 
+3. ‘Design and/or manufacture’, as referred to in the above definition, may include 
+specification development, production, fabrication, assembly, processing, packaging, 
+repackaging, labelling, relabelling, sterilization, installation, or remanufacturing of 
+a medical device; or putting a collection of devices, and possibly other products, 
+together for a medical purpose. 
+4. Any person who assembles or adapts a medical device that has already been 
+supplied by another person for an individual patient, in accordance with the 
+instructions for use, is not the manufacturer, provided the assembly or adaptation 
+does not change the intended use of the medical device. 
+5. Any person who changes the intended use of, or modifies, a medical device without 
+acting on behalf of the original manufacturer and who makes it available for use 
+under his own name, should be considered the manufacturer of the modified medical 
+device. 
+6. An authorised representative, distributor or importer who only adds its own address 
+and contact details to the medical device or the packaging, without covering or 
+changing the existing labelling, is not considered a manufacturer. 
+7. To the extent that an accessory is subject to the regulatory requirements of a medical 
+device6, the person responsible for the design and/or manufacture of that accessory 
+is considered to be a manufacturer. 
+5.5 
+Intended use / intended purpose 
+For SaMD intended use, the definition in GHTF/SG1/N70:2011 “Label and Instructions for Use 
+for Medical Devices” applies: 
+ 
+The term “intended use / intended purpose” is the objective intent of the manufacturer regarding 
+the use of a product, process or service as reflected in the specifications, instructions and 
+information provided by the manufacturer.  
+ 
+5.5.1 Additional considerations for SaMD  
+Although not specifically included in the GHTF definition materials such as sales and 
+marketing materials may be considered as “information provided by the manufacturer” 
+and therefore reflect the objective intent of the manufacturer. Sales and marketing 
+materials should be comprehensive and reflect the intended use of the SaMD.  
+6   See GHTF/SG1/N29  Information Document Concerning the Definition of the Term “Medical Device” 
+9 December 2013 
+Page 9 of 9

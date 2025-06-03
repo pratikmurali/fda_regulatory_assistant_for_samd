@@ -1,0 +1,60 @@
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation 
+Planned 
+Modifications 
+Test Methods and Validation 
+Activities 
+Communication to users, as 
+needed 
+Addition of a 
+new wireless 
+card 
+Testing for basic safety and 
+essential performance will be 
+repeated according to FDA-
+recognized editions of the 
+following voluntary consensus 
+standards: 
+• ANSI/AAMI ES60601-1 
+• IEC 60601-1-2 
+• IEC 60601-1-8 
+• IEC 60601-4-2 
+• AIM 7351731 
+• IEEE/ANSI C63.27 
+• AAMI TIR69 
+Test methods will follow the 
+recommendations in the most 
+recent version of the following 
+FDA guidances: 
+• “Electromagnetic 
+Compatibility (EMC) of 
+Medical Devices” 
+• “Radio Frequency 
+Wireless Technology in 
+Medical Devices” 
+Labeling will be updated in 
+accordance with the authorized 
+PCCP to provide users with 
+current information regarding the 
+device’s wireless capabilities 
+Upgrade to 
+device 
+operating 
+system 
+Verified and validated by the 
+requirements of the 
+Modification Protocol, including 
+necessary regression testing 
+Users will be notified of software 
+updates (including any user 
+instructions for the update process) 
+in accordance with the authorized 
+PCCP 
+Labeling will be updated in 
+accordance with the authorized 
+PCCP to provide users with 
+current information regarding the 
+device’s upgraded operating 
+system 
+1368 
+38

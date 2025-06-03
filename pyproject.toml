@@ -1,0 +1,56 @@
+[project]
+name = "fda-regulatory-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.38.23",
+    "chainlit>=2.5.5",
+    "cloudpathlib>=0.21.1",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.24",
+    "langchain-openai>=0.3.18",
+    "langchain-redis>=0.2.1",
+    "langgraph>=0.4.7",
+    "langsmith>=0.3.42",
+    "pymupdf>=1.26.0",
+    "pytest>=8.3.5",
+    "python-docx>=1.1.2",
+    "qdrant-client>=1.14.2",
+    "ragas>=0.2.15",
+    "rapidfuzz>=3.13.0",
+    "redis>=5.3.0",
+    "redisvl>=0.6.0",
+    "ruff>=0.11.11",
+    "s3client>=0.0.3",
+    "tiktoken>=0.9.0",
+    "unstructured>=0.17.2",
+    "websockets>=15.0.1",
+]
+
+[tool.ruff]
+# Exclude cache directories and other generated files
+exclude = [
+    ".git",
+    "__pycache__",
+    "cache",
+    "cybersecurity-cache",
+    ".venv",
+    "venv",
+]
+
+[tool.ruff.lint]
+# Enable essential rule categories
+select = ["E", "F", "W"]
+
+# Ignore specific rules for legitimate use cases
+ignore = [
+    "E402",  # Module level import not at top of file (needed for sys.path modifications)
+    "E501",  # Line too long (let formatter handle this)
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Allow unused imports in test files that are testing import functionality
+"tests/test_main_cleanup.py" = ["F401"]
+"setup_env.py" = ["F401"]

@@ -1,0 +1,28 @@
+§ 830.350 Correction of information submitted to the Global Unique Device Identification
+Database.
+§ 830.360 Records to be maintained by the labeler.
+(a)
+If FDA becomes aware that any information submitted to the Global Unique Device Identification Database
+(GUDID) appears to be incorrect or potentially misleading, we may notify the labeler of the specific
+information that appears to be incorrect, and request that the labeler provide corrected information or
+explain why the information is correct. The labeler must provide corrected information or provide a
+satisfactory explanation of why the information is correct within 30 days of receipt of FDA's notification.
+(b)
+If the labeler does not respond to FDA's notification within 30 days of receipt, or if FDA determines, at any
+time, that any information in the GUDID is incorrect or could be misleading, we may delete or correct the
+information. Any action taken by FDA under this paragraph does not relieve the labeler of its responsibility
+under paragraph (a) of this section to provide corrected information or an explanation of why the
+information previously submitted is correct.
+(a)
+Each labeler shall retain, and submit to FDA upon specific request, records showing all unique device
+identifiers (UDIs) used to identify devices that must bear a UDI on their label, and the particular version or
+model associated with each device identifier. These records must be retained for 3 years from the date
+the labeler ceases to market the version or model.
+(b)
+Compliance with this section does not relieve the labeler of the need to comply with recordkeeping
+requirements of any other FDA regulation.
+21 CFR Part 830 (up to date as of 5/22/2025)
+Unique Device Identification
+21 CFR 830.350
+21 CFR 830.360(b) (enhanced display)
+page 12 of 12

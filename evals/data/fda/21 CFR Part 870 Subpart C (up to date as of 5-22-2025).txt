@@ -1,0 +1,565 @@
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR Part 870 Subpart C (May 22, 2025)
+This content is from the eCFR and is authoritative but unofficial.
+45 FR 7907, Feb. 5, 1980, unless otherwise noted.
+Title 21—Food and Drugs
+Chapter I—Food and Drug Administration, Department of Health and Human Services
+Subchapter H—Medical Devices
+Part 870—Cardiovascular Devices
+Authority: 21 U.S.C. 351,360,360c,360e,360j,360l, 371.
+Source: Subpart C Cardiovascular Monitoring Devices
+§ 870.2050 Biopotential amplifier and signal conditioner.
+§ 870.2060 Transducer signal amplifier and conditioner.
+§ 870.2100 Cardiovascular blood flowmeter.
+§ 870.2120 Extravascular blood flow probe.
+§ 870.2200 Adjunctive cardiovascular status indicator.
+§ 870.2210 Adjunctive predictive cardiovascular indicator.
+§ 870.2220 Adjunctive hemodynamic indicator with decision point.
+§ 870.2300 Cardiac monitor (including cardiotachometer and rate alarm).
+§ 870.2310 Apex cardiograph (vibrocardiograph).
+§ 870.2320 Ballistocardiograph.
+§ 870.2330 Echocardiograph.
+§ 870.2340 Electrocardiograph.
+§ 870.2345 Electrocardiograph software for over-the-counter use.
+§ 870.2350 Electrocardiograph lead switching adaptor.
+§ 870.2360 Electrocardiograph electrode.
+§ 870.2370 Electrocardiograph surface electrode tester.
+§ 870.2390 Phonocardiograph.
+§ 870.2400 Vectorcardiograph.
+§ 870.2450 Medical cathode-ray tube display.
+§ 870.2600 Signal isolation system.
+§ 870.2620 Line isolation monitor.
+§ 870.2640 Portable leakage current alarm.
+§ 870.2675 Oscillometer.
+§ 870.2700 Oximeter.
+§ 870.2710 Ear oximeter.
+§ 870.2750 Impedance phlebograph.
+§ 870.2770 Impedance plethysmograph.
+§ 870.2780 § 870.2785 rate, and/or respiratory rate.
+21 CFR Part 870 Subpart C (May 22, 2025) (enhanced display) Hydraulic, pneumatic, or photoelectric plethysmographs.
+Software for optical camera-based measurement of pulse rate, heart rate, breathing
+page 1 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+§ 870.2786 Hardware and software for optical camera-based measurement of pulse rate, heart
+rate, breathing rate, and/or respiratory rate.
+§ 870.2790 Photoplethysmograph analysis software for over-the-counter use.
+§ 870.2800 Medical magnetic tape recorder.
+§ 870.2810 Paper chart recorder.
+§ 870.2840 Apex cardiographic transducer.
+§ 870.2850 Extravascular blood pressure transducer.
+§ 870.2855 Implantable Intra-aneurysm Pressure Measurement System.
+§ 870.2860 Heart sound transducer.
+§ 870.2870 Catheter tip pressure transducer.
+§ 870.2880 Ultrasonic transducer.
+§ 870.2890 Vessel occlusion transducer.
+§ 870.2900 Patient transducer and electrode cable (including connector).
+§ 870.2910 Radiofrequency physiological signal transmitter and receiver.
+§ 870.2920 Telephone electrocardiograph transmitter and receiver.
+21 CFR Part 870 Subpart C (May 22, 2025)
+Editorial Note: Nomenclature changes to part 870 appear at73 FR 35341, June 23, 2008.
+Subpart C—Cardiovascular Monitoring Devices
+§ 870.2050 Biopotential amplifier and signal conditioner.
+(a) Identification. A biopotential amplifier and signal conditioner is a device used to amplify or condition an
+electrical signal of biologic origin.
+(b) Classification. Class II (performance standards).
+§ 870.2060 Transducer signal amplifier and conditioner.
+(a) Identification. A transducer signal amplifier and conditioner is a device used to provide the excitation
+energy for the transducer and to amplify or condition the signal emitted by the transducer.
+(b) Classification. Class II (performance standards).
+§ 870.2100 Cardiovascular blood flowmeter.
+(a) Identification. A cardiovascular blood flowmeter is a device that is connected to a flow transducer that
+energizes the transducer and processes and displays the blood flow signal.
+(b) Classification. Class II (performance standards).
+§ 870.2120 Extravascular blood flow probe.
+(a) Identification. An extravascular blood flow probe is an extravascular ultrasonic or electromagnetic probe
+used in conjunction with a blood flowmeter to measure blood flow in a chamber or vessel.
+(b) Classification. Class II (performance standards).
+21 CFR 870.2120(b) (enhanced display) page 2 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2200
+§ 870.2200 Adjunctive cardiovascular status indicator.
+(a) Identification. The adjunctive cardiovascular status indicator is a prescription device based on sensor
+technology for the measurement of a physical parameter(s). This device is intended for adjunctive use
+with other physical vital sign parameters and patient information and is not intended to independently
+direct therapy.
+(b) Classification. Class II (special controls). The special controls for this device are:
+(1) (2) (3) (4) (5) Software description, verification, and validation based on comprehensive hazard analysis must be
+provided, including:
+(i) Full characterization of technical parameters of the software, including any proprietary
+algorithm(s);
+(ii) Description of the expected impact of all applicable sensor acquisition hardware characteristics
+on performance and any associated hardware specifications;
+(iii) Specification of acceptable incoming sensor data quality control measures; and
+(iv) Mitigation of impact of user error or failure of any subsystem components (signal detection and
+analysis, data display, and storage) on accuracy of patient reports.
+Scientific justification for the validity of the status indicator algorithm(s) must be provided.
+Verification of algorithm calculations and validation testing of the algorithm using a data set
+separate from the training data must demonstrate the validity of modeling.
+Usability assessment must be provided to demonstrate that risk of misinterpretation of the status
+indicator is appropriately mitigated.
+Clinical data must be provided in support of the intended use and include the following:
+(i) Output measure(s) must be compared to an acceptable reference method to demonstrate that
+the output measure(s) represent(s) the predictive measure(s) that the device provides in an
+accurate and reproducible manner;
+(ii) The data set must be representative of the intended use population for the device. Any
+selection criteria or limitations of the samples must be fully described and justified;
+(iii) Agreement of the measure(s) with the reference measure(s) must be assessed across the full
+measurement range; and
+(iv) Data must be provided within the clinical validation study or using equivalent datasets to
+demonstrate the consistency of the output and be representative of the range of data sources
+and data quality likely to be encountered in the intended use population and relevant use
+conditions in the intended use environment.
+Labeling must include the following:
+(i) The type of sensor data used, including specification of compatible sensors for data
+acquisition;
+(ii) A description of what the device measures and outputs to the user;
+(iii) Warnings identifying sensor reading acquisition factors that may impact measurement results;
+21 CFR 870.2200(b)(5)(iii) (enhanced display) page 3 of 15
+(b) 21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2200(b)(5)(iv)
+(iv) Guidance for interpretation of the measurements, including warning(s) specifying adjunctive
+use of the measurements;
+(v) Key assumptions made in the calculation and determination of measurements;
+(vi) The measurement performance of the device for all presented parameters, with appropriate
+confidence intervals, and the supporting evidence for this performance; and
+(vii) A detailed description of the patients studied in the clinical validation (e.g., age, gender, race/
+ethnicity, clinical stability) as well as procedural details of the clinical study.
+[82 FR 35067, July 28, 2017]
+§ 870.2210 Adjunctive predictive cardiovascular indicator.
+(a) Identification. The adjunctive predictive cardiovascular indicator is a prescription device that uses
+software algorithms to analyze cardiovascular vital signs and predict future cardiovascular status or
+events. This device is intended for adjunctive use with other physical vital sign parameters and patient
+information and is not intended to independently direct therapy.
+Classification. Class II (special controls). The special controls for this device are:
+(1) A software description and the results of verification and validation testing based on a
+comprehensive hazard analysis and risk assessment must be provided, including:
+(i) A full characterization of the software technical parameters, including algorithms;
+(ii) A description of the expected impact of all applicable sensor acquisition hardware
+characteristics and associated hardware specifications;
+(iii) A description of sensor data quality control measures;
+(iv) A description of all mitigations for user error or failure of any subsystem components (including
+signal detection, signal analysis, data display, and storage) on output accuracy;
+(v) A description of the expected time to patient status or clinical event for all expected outputs,
+accounting for differences in patient condition and environment; and
+(vi) The sensitivity, specificity, positive predictive value, and negative predictive value in both
+percentage and number form.
+A scientific justification for the validity of the predictive cardiovascular indicator algorithm(s) must
+be provided. This justification must include verification of the algorithm calculations and validation
+using an independent data set.
+A human factors and usability engineering assessment must be provided that evaluates the risk of
+misinterpretation of device output.
+A clinical data assessment must be provided. This assessment must fulfill the following:
+(i) The assessment must include a summary of the clinical data used, including source, patient
+demographics, and any techniques used for annotating and separating the data.
+(ii) The clinical data must be representative of the intended use population for the device. Any
+selection criteria or sample limitations must be fully described and justified.
+(2) (3) (4) 21 CFR 870.2210(b)(4)(ii) (enhanced display) page 4 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2210(b)(4)(iii)
+(iii) The assessment must demonstrate output consistency using the expected range of data
+sources and data quality encountered in the intended use population and environment.
+(iv) The assessment must evaluate how the device output correlates with the predicted event or
+status.
+(5) Labeling must include:
+(i) A description of what the device measures and outputs to the user;
+(ii) Warnings identifying sensor acquisition factors that may impact measurement results;
+(iii) Guidance for interpretation of the measurements, including a statement that the output is
+adjunctive to other physical vital sign parameters and patient information;
+(iv) A specific time or a range of times before the predicted patient status or clinical event occurs,
+accounting for differences in patient condition and environment;
+(v) Key assumptions made during calculation of the output;
+(vi) The type(s) of sensor data used, including specification of compatible sensors for data
+acquisition;
+(vii) The expected performance of the device for all intended use populations and environments;
+and
+(viii) Relevant characteristics of the patients studied in the clinical validation (including age, gender,
+race or ethnicity, and patient condition) and a summary of validation results.
+[87 FR 8191, Feb. 14, 2022]
+§ 870.2220 Adjunctive hemodynamic indicator with decision point.
+Identification. An adjunctive hemodynamic indicator with decision point is a device that identifies and
+monitors hemodynamic condition(s) of interest and provides notifications at a clinically meaningful
+decision point. This device is intended to be used adjunctively along with other monitoring and patient
+information.
+Classification. Class II (special controls). The special controls for this device are:
+(1) Software description, verification, and validation based on comprehensive hazard analysis and risk
+assessment must be provided, including:
+(i) Full characterization of technical parameters of the software, including algorithm(s);
+(ii) Description of the expected impact of all applicable sensor acquisition hardware characteristics
+on performance and any associated hardware specifications;
+(iii) Specification of acceptable incoming sensor data quality control measures;
+(iv) Mitigation of impact of user error or failure of any subsystem components (signal detection and
+analysis, data display, and storage) on output accuracy; and
+(v) The sensitivity, specificity, positive predictive value, and negative predictive value in both
+percentage and number form for clinically meaningful pre-specified time windows consistent
+with the device output.
+21 CFR 870.2220(b)(1)(v) (enhanced display) page 5 of 15
+(a) (b) 
+(2) (3) (4) 21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2220(b)(2)
+Scientific justification for the validity of the hemodynamic indicator algorithm(s) must be provided.
+Verification of algorithm calculations and validation testing of the algorithm must use an
+independent data set.
+Usability assessment must be provided to demonstrate that risk of misinterpretation of the status
+indicator is appropriately mitigated.
+Clinical data must support the intended use and include the following:
+(i) The assessment must include a summary of the clinical data used, including source, patient
+demographics, and any techniques used for annotating and separating the data;
+(ii) Output measure(s) must be compared to an acceptable reference method to demonstrate that
+the output represents the measure(s) that the device provides in an accurate and reproducible
+manner;
+(iii) The data set must be representative of the intended use population for the device. Any
+selection criteria or limitations of the samples must be fully described and justified;
+(iv) Where continuous measurement variables are displayed, agreement of the output with the
+reference measure(s) must be assessed across the full measurement range; and
+(v) Data must be provided within the clinical validation study or using equivalent datasets to
+demonstrate the consistency of the output and be representative of the range of data sources
+and data quality likely to be encountered in the intended use population and relevant use
+conditions in the intended use environment.
+Labeling must include the following:
+(i) The type of sensor data used, including specification of compatible sensors for data
+acquisition, and a clear description of what the device measures and outputs to the user;
+(ii) Warnings identifying factors that may impact output results;
+(iii) Guidance for interpretation of the outputs, including warning(s) specifying adjunctive use of the
+measurements;
+(iv) Key assumptions made in the calculation and determination of measurements; and
+(v) A summary of the clinical validation data, including details of the patient population studied
+(e.g., age, gender, race/ethnicity), clinical study protocols, and device performance with
+confidence intervals for all intended use populations.
+[87 FR 79254, Dec. 27, 2022]
+§ 870.2300 Cardiac monitor (including cardiotachometer and rate alarm).
+Identification. A cardiac monitor (including cardiotachometer and rate alarm) is a device used to measure
+the heart rate from an analog signal produced by an electrocardiograph, vectorcardiograph, or blood
+pressure monitor. This device may sound an alarm when the heart rate falls outside preset upper and
+lower limits.
+Classification. Class II (performance standards).
+(5) (a) (b) 21 CFR 870.2300(b) (enhanced display) page 6 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2310
+§ 870.2310 Apex cardiograph (vibrocardiograph).
+(a) Identification. An apex cardiograph (vibrocardiograph) is a device used to amplify or condition the signal
+from an apex cardiographic transducer and to produce a visual display of the motion of the heart; this
+device also provides any excitation energy required by the transducer.
+(b) Classification. Class II (performance standards).
+§ 870.2320 Ballistocardiograph.
+(a) Identification. A ballistocardiograph is a device, including a supporting structure on which the patient is
+placed, that moves in response to blood ejection from the heart. The device often provides a visual
+display.
+(b) Classification. Class II (performance standards).
+§ 870.2330 Echocardiograph.
+(a) Identification. An echocardiograph is a device that uses ultrasonic energy to create images of
+cardiovascular structures. It includes phased arrays and two-dimensional scanners.
+(b) Classification. Class II (performance standards).
+§ 870.2340 Electrocardiograph.
+(a) Identification. An electrocardiograph is a device used to process the electrical signal transmitted through
+two or more electrocardiograph electrodes and to produce a visual display of the electrical signal
+produced by the heart.
+(b) Classification. Class II (performance standards).
+§ 870.2345 Electrocardiograph software for over-the-counter use.
+(a) Identification. An electrocardiograph software device for over-the-counter use creates, analyzes, and
+displays electrocardiograph data and can provide information for identifying cardiac arrhythmias. This
+device is not intended to provide a diagnosis.
+(b) Classification. Class II (special controls). The special controls for this device are:
+(1) Clinical performance testing under anticipated conditions of use must demonstrate the following:
+(i) The ability to obtain an electrocardiograph of sufficient quality for display and analysis; and
+(ii) The performance characteristics of the detection algorithm as reported by sensitivity and either
+specificity or positive predictive value.
+(2) Software verification, validation, and hazard analysis must be performed. Documentation must
+include a characterization of the technical specifications of the software, including the detection
+algorithm and its inputs and outputs.
+(3) Non-clinical performance testing must validate detection algorithm performance using a previously
+adjudicated data set.
+(4) Human factors and usability testing must demonstrate the following:
+(i) The user can correctly use the device based solely on reading the device labeling; and
+21 CFR 870.2345(b)(4)(i) (enhanced display) page 7 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2345(b)(4)(ii)
+(ii) The user can correctly interpret the device output and understand when to seek medical care.
+(5) Labeling must include:
+(i) Hardware platform and operating system requirements;
+(ii) Situations in which the device may not operate at an expected performance level;
+(iii) A summary of the clinical performance testing conducted with the device;
+(iv) A description of what the device measures and outputs to the user; and
+(v) Guidance on interpretation of any results.
+[86 FR 2549, Jan. 18, 2022]
+§ 870.2350 Electrocardiograph lead switching adaptor.
+(a) Identification. An electrocardiograph lead switching adaptor is a passive switching device to which
+electrocardiograph limb and chest leads may be attached. This device is used to connect various
+combinations of limb and chest leads to the output terminals in order to create standard lead
+combinations such as leads I, II, and III.
+(b) Classification. Class II (performance standards).
+§ 870.2360 Electrocardiograph electrode.
+(a) Identification. An electrocardiograph electrode is the electrical conductor which is applied to the surface
+of the body to transmit the electrical signal at the body surface to a processor that produces an
+electrocardiogram or vectorcardiogram.
+Classification. Class II (special controls). The device is exempt from the premarket notification procedures
+insubpart E of part 807 of this chaptersubject to the limitations in§ 870.9. The special control for this
+(b) device is the FDA guidance document entitled “Class II Special Controls Guidance Document:
+Electrocardiograph Electrodes.” See§ 870.1(e)for availability information of guidance documents.
+[45 FR 7907, Feb. 5, 1980, as amended at 76 FR 43585, July 21, 2011]
+§ 870.2370 Electrocardiograph surface electrode tester.
+(a) Identification. An electrocardiograph surface electrode tester is a device used to test the function and
+application of electrocardiograph electrodes.
+(b) Classification. Class II (performance standards).
+§ 870.2390 Phonocardiograph.
+(a) Identification. A phonocardiograph is a device used to amplify or condition the signal from a heart sound
+transducer. This device furnishes the excitation energy for the transducer and provides a visual or audible
+display of the heart sounds.
+(b) Classification. Class I (general controls). The device is exempt from the premarket notification procedures
+insubpart E of part 807 of this chaptersubject to the limitations in§ 870.9.
+[45 FR 7907, Feb. 5, 1980, as amended at 61 FR 1121, Jan. 16, 1996; 66 FR 38796, July 25, 2001]
+21 CFR 870.2390(b) (enhanced display) page 8 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2400
+§ 870.2400 Vectorcardiograph.
+(a) Identification. A vectorcardiograph is a device used to process the electrical signal transmitted through
+electrocardiograph electrodes and to produce a visual display of the magnitude and direction of the
+electrical signal produced by the heart.
+(b) Classification. Class II (performance standards).
+§ 870.2450 Medical cathode-ray tube display.
+(a) Identification. A medical cathode-ray tube display is a device designed primarily to display selected
+biological signals. This device often incorporates special display features unique to a specific biological
+signal.
+(b) Classification. Class II (performance standards).
+§ 870.2600 Signal isolation system.
+(a) Identification. A signal isolation system is a device that electrically isolates the patient from equipment
+connected to the commercial power supply received from a utility company. This isolation may be
+accomplished, for example, by transformer coupling, acoustic coupling, or optical coupling.
+(b) Classification. Class I (general controls). The device is exempt from the premarket notification procedures
+insubpart E of part 807 of this chaptersubject to the limitations in§ 870.9.
+[45 FR 7907, Feb. 5, 1980, as amended at 61 FR 1121, Jan. 16, 1996; 66 FR 38796, July 25, 2001]
+§ 870.2620 Line isolation monitor.
+(a) (b) Identification. A line isolation monitor is a device used to monitor the electrical leakage current from a
+power supply electrically isolated from the commercial power supply received from a utility company.
+Classification. Class I (general controls). The device is exempt from the premarket notification procedures
+insubpart E of part 807 of this chaptersubject to the limitations in§ 870.9.
+[45 FR 7907, Feb. 5, 1980, as amended at 61 FR 1121, Jan. 16, 1996; 66 FR 38796, July 25, 2001]
+§ 870.2640 Portable leakage current alarm.
+(a) (b) Identification. A portable leakage current alarm is a device used to measure the electrical leakage current
+between any two points of an electrical system and to sound an alarm if the current exceeds a certain
+threshold.
+Classification. Class I (general controls). The device is exempt from the premarket notification procedures
+insubpart E of part 807 of this chaptersubject to the limitations in§ 870.9.
+[45 FR 7907, Feb. 5, 1980, as amended at 61 FR 1121, Jan. 16, 1996; 66 FR 38796, July 25, 2001]
+§ 870.2675 Oscillometer.
+(a) Identification. An oscillometer is a device used to measure physiological oscillations of any kind, e.g.,
+changes in the volume of arteries.
+21 CFR 870.2675(a) (enhanced display) page 9 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2675(b)
+(b) Classification. Class II (special controls). The device is exempt from the premarket notification procedures
+insubpart E of part 807 of this chaptersubject to the limitations in§ 870.9.
+[45 FR 7907, Feb. 5, 1980, as amended at 84 FR 71812, Dec. 30, 2019]
+§ 870.2700 Oximeter.
+(a) Identification. An oximeter is a device used to transmit radiation at a known wavelength(s) through blood
+and to measure the blood oxygen saturation based on the amount of reflected or scattered radiation. It
+may be used alone or in conjunction with a fiberoptic oximeter catheter.
+(b) Classification. Class II (performance standards).
+§ 870.2710 Ear oximeter.
+(a) Identification. An ear oximeter is an extravascular device used to transmit light at a known wavelength(s)
+through blood in the ear. The amount of reflected or scattered light as indicated by this device is used to
+measure the blood oxygen saturation.
+(b) Classification. Class II (performance standards).
+§ 870.2750 Impedance phlebograph.
+(a) Identification. An impedance phlebograph is a device used to provide a visual display of the venous pulse
+or drainage by measuring electrical impedance changes in a region of the body.
+(b) Classification. Class II (performance standards).
+§ 870.2770 Impedance plethysmograph.
+(a) Identification. An impedance plethysmograph is a device used to estimate peripheral blood flow by
+measuring electrical impedance changes in a region of the body such as the arms and legs.
+(b) Classification. Class II (special controls). The device, when it is a body composition analyzer which is not
+intended to diagnose or treat any medical condition, is exempt from the premarket notification
+procedures insubpart E of part 807 of this chaptersubject to the limitations in§ 870.9.
+[45 FR 7907, Feb. 5, 1980, as amended at 84 FR 71812, Dec. 30, 2019]
+§ 870.2780 Hydraulic, pneumatic, or photoelectric plethysmographs.
+(a) Identification. A hydraulic, pneumatic, or photoelectric plethysmograph is a device used to estimate blood
+flow in a region of the body using hydraulic, pneumatic, or photoelectric measurement techniques.
+(b) Classification. Class II (performance standards).
+§ 870.2785 Software for optical camera-based measurement of pulse rate, heart rate, breathing
+rate, and/or respiratory rate.
+(a) Identification. The device uses software algorithms to analyze video signal and estimate pulse rate, heart
+rate, breathing rate, and/or respiratory rate. This device is not intended to independently direct therapy.
+(b) Classification. Class II (special controls). The special controls for this device are:
+21 CFR 870.2785(b) (enhanced display) page 10 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2785(b)(1)
+(1) A software description and the results of verification and validation testing based on a
+comprehensive hazard analysis and risk assessment must include:
+(i) A full characterization of the software technical parameters, including algorithms;
+(ii) If required image acquisition hardware is not included with the device, full specifications of the
+hardware requirements and testing to demonstrate the specified hardware ensures adequate
+data for validated and accurate measurements;
+(iii) A description of the expected impact of all applicable sensor acquisition hardware
+characteristics and associated hardware specifications;
+(iv) A description of all mitigations for user error or failure of any subsystem components (including
+signal detection, signal analysis, data display, and storage) on output accuracy; and
+(v) Software documentation must include a cybersecurity vulnerability and management process
+to assure software functionality.
+(2) Clinical data must be provided. This assessment must fulfill the following:
+(i) The clinical data must be representative of the intended use population for the device. Any
+selection criteria or sample limitations must be fully described and justified.
+(ii) The assessment must demonstrate output consistency using the expected range of data
+sources and data quality encountered in the intended use population and environment.
+(iii) The assessment must compare device output with a clinically accurate patient-contacting
+relevant comparator device in an accurate and reproducible manner.
+(3) A human factors and usability engineering assessment must be provided that evaluates the risk of
+improper measurement.
+(4) Labeling must include:
+(i) A description of what the device measures and outputs to the user;
+(ii) Warnings identifying sensor acquisition factors or subject conditions or characteristics
+(garment types/textures, motion, etc.) that may impact measurement results;
+(iii) Guidance for interpretation of the measurements, including a statement that the output is
+adjunctive to other physical vital sign parameters and patient information;
+(iv) The expected performance of the device for all intended use populations and environments;
+and
+(v) Robust instructions to ensure correct system setup.
+[88 CFR 6167, Jan. 31, 2023]
+§ 870.2786 Hardware and software for optical camera-based measurement of pulse rate, heart
+rate, breathing rate, and/or respiratory rate.
+(a) Identification. The device uses an optical sensor system and software algorithms to obtain and analyze
+video signal and estimate pulse rate, heart rate, breathing rate, and/or respiratory rates. This device is not
+intended to independently direct therapy.
+21 CFR 870.2786(a) (enhanced display) page 11 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2786(b)
+(b) Classification. Class II (special controls). The special controls for this device are:
+(1) A software description and the results of verification and validation testing based on a
+comprehensive hazard analysis and risk assessment must include:
+(i) A full characterization of the software technical parameters, including algorithms;
+(ii) A description of all mitigations for user error or failure of any subsystem components (including
+signal detection, signal analysis, data display, and storage) on output accuracy; and
+(iii) Software documentation must include a cybersecurity vulnerability and management process
+to assure software functionality.
+(2) Performance testing must demonstrate the safety of any illuminating optics.
+(3) Clinical data must be provided. This assessment must fulfill the following:
+(i) The clinical data must be representative of the intended use population for the device. Any
+selection criteria or sample limitations must be fully described and justified.
+(ii) The assessment must demonstrate output consistency using the expected range of data
+sources and data quality encountered in the intended use population and environment.
+(iii) The assessment must compare device output with a clinically accurate patient-contacting
+relevant comparator device in an accurate and reproducible manner.
+(4) A human factors and usability engineering assessment must be provided that evaluates the risk of
+improper measurement.
+(5) Labeling must include:
+(i) A description of what the device measures and outputs to the user;
+(ii) Warnings identifying sensor acquisition factors or subject conditions or characteristics
+(garment types/textures, motion, etc.) that may impact measurement results;
+(iii) Guidance for interpretation of the measurements, including a statement that the output is
+adjunctive to other physical vital sign parameters and patient information;
+(iv) The expected performance of the device for all intended use populations and environments;
+and
+(v) Robust instructions to ensure correct system setup.
+[88 FR 976, Jan. 6, 2023]
+§ 870.2790 Photoplethysmograph analysis software for over-the-counter use.
+Identification. A photoplethysmograph analysis software device for over-the-counter use analyzes
+photoplethysmograph data and provides information for identifying irregular heart rhythms. This device is
+not intended to provide a diagnosis.
+Classification. Class II (special controls). The special controls for this device are:
+(1) Clinical performance testing must demonstrate the performance characteristics of the detection
+algorithm under anticipated conditions of use.
+21 CFR 870.2790(b)(1) (enhanced display) page 12 of 15
+(a) (b) 
+(2) (3) (4) 21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2790(b)(2)
+Software verification, validation, and hazard analysis must be performed. Documentation must
+include a characterization of the technical specifications of the software, including the detection
+algorithm and its inputs and outputs.
+Non-clinical performance testing must demonstrate the ability of the device to detect adequate
+photoplethysmograph signal quality.
+Human factors and usability testing must demonstrate the following:
+(i) The user can correctly use the device based solely on reading the device labeling; and
+(ii) The user can correctly interpret the device output and understand when to seek medical care.
+(5) Labeling must include:
+(i) Hardware platform and operating system requirements;
+(ii) Situations in which the device may not operate at an expected performance level;
+(iii) A summary of the clinical performance testing conducted with the device;
+(iv) A description of what the device measures and outputs to the user; and
+(v) Guidance on interpretation of any results.
+[87 FR 6419, Feb. 4, 2022]
+§ 870.2800 Medical magnetic tape recorder.
+(a) Identification. A medical magnetic tape recorder is a device used to record and play back signals from, for
+example, physiological amplifiers, signal conditioners, or computers.
+Classification. Class II (performance standards).
+§ 870.2810 Paper chart recorder.
+Identification. A paper chart recorder is a device used to print on paper, and create a permanent record of
+the signal from, for example, a physiological amplifier, signal conditioner, or computer.
+Classification. Class I (general controls). The device is exempt from the premarket notification procedures
+insubpart E of part 807 of this chaptersubject to the limitations in§ 870.9.
+(b) (a) (b) [45 FR 7907, Feb. 5, 1980, as amended at 61 FR 1121, Jan. 16, 1996; 66 FR 38796, July 25, 2001]
+§ 870.2840 Apex cardiographic transducer.
+(a) (b) Identification. An apex cardiographic transducer is a device used to detect motion of the heart
+(acceleration, velocity, or displacement) by changes in the mechanical or electrical properties of the
+device.
+Classification. Class II (performance standards).
+21 CFR 870.2840(b) (enhanced display) page 13 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2850
+§ 870.2850 Extravascular blood pressure transducer.
+(a) Identification. An extravascular blood pressure transducer is a device used to measure blood pressure by
+changes in the mechanical or electrical properties of the device. The proximal end of the transducer is
+connected to a pressure monitor that produces an analog or digital electrical signal related to the
+electrical or mechanical changes produced in the transducer.
+(b) Classification. Class II (performance standards).
+§ 870.2855 Implantable Intra-aneurysm Pressure Measurement System.
+(a) Identification. Implantable intra-aneurysm pressure measurement system is a device used to measure the
+intra-sac pressure in a vascular aneurysm. The device consists of a pressure transducer that is implanted
+into the aneurysm and a monitor that reads the pressure from the transducer.
+(b) Classification. Class II (special controls). The special control is FDA's guidance document entitled “Class II
+Special Controls Guidance Document: Implantable Intra-Aneurysm Pressure Measurement System.” See§
+870.1 (e)for the availability of this guidance document.
+[71 FR 7871, Feb. 15, 2006]
+§ 870.2860 Heart sound transducer.
+(a) Identification. A heart sound transducer is an external transducer that exhibits a change in mechanical or
+electrical properties in relation to sounds produced by the heart. This device may be used in conjunction
+with a phonocardiograph to record heart sounds.
+(b) Classification. Class II (performance standards).
+§ 870.2870 Catheter tip pressure transducer.
+(a) Identification. A catheter tip pressure transducer is a device incorporated into the distal end of a catheter.
+When placed in the bloodstream, its mechanical or electrical properties change in relation to changes in
+blood pressure. These changes are transmitted to accessory equipment for processing.
+(b) Classification. Class II (performance standards).
+§ 870.2880 Ultrasonic transducer.
+(a) Identification. An ultrasonic transducer is a device applied to the skin to transmit and receive ultrasonic
+energy that is used in conjunction with an echocardiograph to provide imaging of cardiovascular
+structures. This device includes phased arrays and two-dimensional scanning transducers.
+(b) Classification. Class II (performance standards).
+§ 870.2890 Vessel occlusion transducer.
+(a) Identification. A vessel occlusion transducer is a device used to provide an electrical signal corresponding
+to sounds produced in a partially occluded vessel. This device includes motion, sound, and ultrasonic
+transducers.
+(b) Classification. Class II (performance standards).
+21 CFR 870.2890(b) (enhanced display) page 14 of 15
+21 CFR Part 870 Subpart C (up to date as of 5/22/2025)
+Cardiovascular Monitoring Devices
+21 CFR 870.2900
+§ 870.2900 Patient transducer and electrode cable (including connector).
+(a) Identification. A patient transducer and electrode cable (including connector) is an electrical conductor
+used to transmit signals from, or power or excitation signals to, patient-connected electrodes or
+transducers.
+(b) Classification. Class II (performance standards).
+§ 870.2910 Radiofrequency physiological signal transmitter and receiver.
+(a) Identification. A radiofrequency physiological signal transmitter and receiver is a device used to condition
+a physiological signal so that it can be transmitted via radiofrequency from one location to another, e.g., a
+central monitoring station. The received signal is reconditioned by the device into its original format so
+that it can be displayed.
+(b) Classification. Class II (performance standards).
+§ 870.2920 Telephone electrocardiograph transmitter and receiver.
+(a) Identification. A telephone electrocardiograph transmitter and receiver is a device used to condition an
+electrocardiograph signal so that it can be transmitted via a telephone line to another location. This
+device also includes a receiver that reconditions the received signal into its original format so that it can
+be displayed. The device includes devices used to transmit and receive pacemaker signals.
+(b) Classification. Class II (performance standards).
+21 CFR 870.2920(b) (enhanced display) page 15 of 15

@@ -1,0 +1,21 @@
+Contains Nonbinding Recommendations 
+ 
+ 
+28
+Description: A manufacturer makes a software modification to allow users to silence a 
+low-risk alarm on a dialysis system. The change consists of a “snooze” button that 
+silences the alarm for a set amount of time before resounding. 
+# Question 
+Yes/No 
+Rationale 
+4 Could the change significantly affect 
+clinical functionality or performance 
+specifications that are directly associated 
+with the intended use of the device? 
+No 
+The silencing of a non-critical alarm 
+does not impact the clinical functionality. 
+The criteria for the alarm are unchanged 
+from the most recently cleared device.  
+Outcome: If the factors identified in section VI are not relevant for this change, 
+document the change to file.

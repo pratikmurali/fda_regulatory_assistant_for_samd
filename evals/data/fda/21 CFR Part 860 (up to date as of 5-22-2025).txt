@@ -1,0 +1,1150 @@
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR Part 860 (May 22, 2025)
+This content is from the eCFR and is authoritative but unofficial.
+Exemptions from sections 510, 519, and 520(f) of the Federal Food, Drug, and
+Title 21—Food and Drugs
+Chapter I—Food and Drug Administration, Department of Health and Human Services
+Subchapter H—Medical Devices
+Part 860 Medical Device Classification Procedures
+Subpart A General
+§ 860.1 Scope.
+§ 860.3 Definitions.
+§ 860.5 Confidentiality and use of data and information submitted in connection with
+classification and reclassification.
+§ 860.7 § 860.10 § 860.15 Determination of safety and effectiveness.
+Implants and life-supporting or life-sustaining devices.
+Cosmetic Act.
+Subpart B Classification
+§ 860.84 Classification procedures for “preamendments devices.”
+§ 860.90 Consultation with panels.
+Subpart C Reclassification
+§ 860.120 General.
+§ 860.123 Reclassification petition: Content and form.
+§ 860.125 Consultation with panels.
+§ 860.130 General procedures under section 513(e) of the Federal Food, Drug, and Cosmetic
+Act.
+§ 860.132 Procedures when the Commissioner initiates a performance standard or premarket
+approval proceeding under section 514(b) or 515(b) of the Federal Food, Drug, and
+Cosmetic Act.
+§ 860.133 Procedures when the Commissioner initiates a proceeding to require premarket
+approval under section 515(b) of the Federal Food, Drug, and Cosmetic Act.
+§ 860.134 Procedures for reclassification of “postamendments devices” under section
+513(f)(3) of the Federal Food, Drug, and Cosmetic Act.
+§ 860.136 Procedures for transitional products under section 520(l) of the Federal Food, Drug,
+and Cosmetic Act.
+Subpart D De Novo Classification
+§ 860.200 Purpose and applicability.
+§ 860.210 De Novo request format.
+§ 860.220 De Novo request content.
+§ 860.230 Accepting a De Novo request.
+21 CFR Part 860 (May 22, 2025) (enhanced display) page 1 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR Part 860 (May 22, 2025)
+§ 860.240 § 860.250 § 860.260 Procedures for review of a De Novo request.
+Withdrawal of a De Novo request.
+Granting or declining a De Novo request.
+43 FR 32993, July 28, 1978, unless otherwise noted.
+Nomenclature changes to part 860 appear at73 FR 35341, June 23, 2008, and at86 FR 54846,
+(b) PART 860—MEDICAL DEVICE CLASSIFICATION PROCEDURES
+Authority: 21 U.S.C. 321(h),353(g),360c,360d,360e,360i,360j,371,374.
+Source: Editorial Note: Oct. 5, 2021.
+Subpart A—General
+§ 860.1 Scope.
+(a) This part implements sections 513, 514(b), 515(b), and 520(l) of the Federal Food, Drug, and Cosmetic Act
+with respect to the classification and reclassification of devices intended for human use.
+This part prescribes the criteria and procedures to be used by advisory committees, including
+classification panels, where applicable, in making their recommendations, and by the Commissioner in
+making the Commissioner's determinations regarding the class of regulatory control (class I, class II, or
+class III) appropriate for particular devices. Supplementing the general Food and Drug Administration
+procedures governing advisory committees (part 14 of this chapter), this part also provides procedures
+for manufacturers, importers, and other interested persons to participate in proceedings to classify and
+reclassify devices. This part also describes the type of data required for determination of the safety and
+effectiveness of a device, and the circumstances under which information submitted to advisory
+committees, including classification panels, or to the Commissioner in connection with classification and
+reclassification proceedings, will be available to the public.
+[43 FR 32993, July 28, 1978, as amended at 86 FR 54846, Oct. 5, 2021]
+§ 860.3 Definitions.
+For the purposes of this part:
+Class means one of the three categories of regulatory control for medical devices, defined as follows:
+Class I means the class of devices that are subject only to the general controls authorized by or under sections
+501 (adulteration), 502 (misbranding), 510 (registration), 516 (banned devices), 518 (notification and
+other remedies), 519 (records and reports), and 520 (general provisions) of the Federal Food, Drug, and
+Cosmetic Act. A device is in class I if:
+(1) General controls are sufficient to provide reasonable assurance of the safety and effectiveness of
+the device, or
+21 CFR 860.3 “Class I” (1) (enhanced display) page 2 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.3 “Class I” (2)
+(2) There is insufficient information from which to determine that general controls are sufficient to
+provide reasonable assurance of the safety and effectiveness of the device or to establish special
+controls to provide such assurance, but the device is not life-supporting or life-sustaining, or for a
+use which is of substantial importance in preventing impairment of human health, and which does
+not present a potential unreasonable risk of illness or injury.
+Class II means the class of devices that is or eventually will be subject to special controls. A device is in class II
+if general controls alone are insufficient to provide reasonable assurance of its safety and effectiveness
+and there is sufficient information to establish special controls, including the promulgation of
+performance standards, postmarket surveillance, patient registries, development and dissemination of
+guidelines (including guidelines for the submission of clinical data in premarket notification submissions
+in accordance with section 510(k) of the Federal Food, Drug, and Cosmetic Act), recommendations, and
+other appropriate actions as the Commissioner deems necessary to provide such assurance. For a device
+that is purported or represented to be for use in supporting or sustaining human life, the Commissioner
+shall examine and identify the special controls, if any, which are necessary to provide adequate assurance
+of safety and effectiveness, and describe how such controls provide such assurance.
+Class III means the class of devices for which premarket approval is or will be required in accordance with
+section 515 of the Federal Food, Drug, and Cosmetic Act. A device is in class III if insufficient information
+exists to determine that general controls are sufficient to provide reasonable assurance of its safety and
+effectiveness, or that application of special controls described in the definition of “Class II” in this section
+in addition to general controls, would provide such assurance, and if, in addition, the device is life-
+supporting or life-sustaining, or for a use which is of substantial importance in preventing impairment of
+human health, or if the device presents a potential unreasonable risk of illness or injury.
+Classification panel means one of the several advisory committees established by the Commissioner under
+section 513 of the Federal Food, Drug, and Cosmetic Act andpart 14 of this chapterfor the purpose of
+making recommendations to the Commissioner on the classification and reclassification of devices and
+for other purposes prescribed by the Federal Food, Drug, and Cosmetic Act or by the Commissioner.
+Classification regulation means a section underparts 862through892 of this chapterthat contains the
+identification (general description and intended use) and classification (class I, II or III) of a single device
+type or more than one related device type(s).
+Commissioner means the Commissioner of Food and Drugs, Food and Drug Administration, United States
+Department of Health and Human Services, or the Commissioner's designee.
+De Novo request means any submission under section 513(f)(2) of the Federal Food, Drug, and Cosmetic Act for
+a medical device, requesting classification into class I or class II, including all information submitted with
+or incorporated by reference therein.
+FDA means the Food and Drug Administration.
+General controls mean the controls authorized by or under sections 501 (adulteration), 502 (misbranding), 510
+(registration, listing, and premarket notification), 516 (banned devices), 518 (notification and other
+remedies), 519 (records, reports, and unique device identification), and 520 (general provisions) of the
+Federal Food, Drug, and Cosmetic Act.
+Generic type of device means a grouping of devices that do not differ significantly in purpose, design, materials,
+energy source, function, or any other feature related to safety and effectiveness, and for which similar
+regulatory controls are sufficient to provide reasonable assurance of safety and effectiveness.
+21 CFR 860.3 “Generic type of device” (enhanced display) page 3 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.3 “Implant”
+Implant means a device that is placed into a surgically or naturally formed cavity of the human body. A device is
+regarded as an implant for the purpose of this part only if it is intended to remain implanted continuously
+for a period of 30 days or more, unless the Commissioner determines otherwise to protect human health.
+Life-supporting or life-sustaining device means a device that is essential to, or that yields information that is
+essential to, the restoration or continuation of a bodily function important to the continuation of human
+life.
+Petition means a submission seeking reclassification of a device in accordance with§ 860.123.
+Special controls mean the controls necessary to provide reasonable assurance of safety and effectiveness for a
+generic type of device that is class II. Special controls include performance standards, performance
+testing, postmarket surveillance, patient registries, development and dissemination of guidelines
+(including guidelines for the submission of clinical data in premarket notification submissions in
+accordance with section 510(k) of the Federal Food, Drug, and Cosmetic Act), recommendations, and
+other appropriate actions, as the Commissioner deems necessary to provide such assurance.
+[86 FR 54846, Oct. 5, 2021]
+§ 860.5 Confidentiality and use of data and information submitted in connection with
+classification and reclassification.
+(a) (b) This section governs the availability for public disclosure and the use by the Commissioner of data and
+information submitted to classification panels or to the Commissioner in connection with the
+classification or reclassification of devices under this part.
+In general, data and information submitted to classification panels in connection with the classification of
+devices under§ 860.84will be available immediately for public disclosure upon request. However, except
+as provided by the special rules inparagraph (c)of this section, this provision does not apply to data and
+information exempt from public disclosure in accordance withpart 20 of this chapter: Such data and
+information will be available only in accordance with part 20.
+(c)
+(1) Safety and effectiveness data submitted to classification panels or to the Commissioner in
+connection with the classification of a device under§ 860.84, which have not been disclosed
+previously to the public, as described in§ 20.81 of this chapter, shall be regarded as confidential if
+the device is classified in to class III. Because the classification of a device under§ 860.84may be
+ascertained only upon publication of a final regulation, all safety and effectiveness data that have
+not been disclosed previously are not available for public disclosure unless and until the device is
+classified into class I or II, in which case the procedure inparagraph (c)(2)of this section applies.
+(2) Thirty days after publication of a final regulation under§ 860.84classifying a device into class I or
+class II, safety and effectiveness data submitted for that device that had been regarded as
+confidential underparagraph (c)(1)of this section will be available for public disclosure and placed
+on public display in the office of the Dockets Management Staff, Food and Drug Administration
+unless, within that 30-day period, the person who submitted the data demonstrates that the data still
+fall within the exemption for trade secrets and confidential commercial information described in§
+20.61 of this chapter. Safety and effectiveness data submitted for a device that is classified into
+21 CFR 860.5(c)(2) (enhanced display) page 4 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.5(c)(3)
+class III by regulation in accordance with§ 860.84will remain confidential and unavailable for public
+chapter.
+disclosure so long as such data have not been disclosed to the public as described in§ 20.81 of this
+(3) Because device classification affects generic types of devices, in making determinations under§
+860.84concerning the initial classification of a device, the classification panels and the
+Commissioner may consider safety and effectiveness data developed for another device in the same
+generic type, regardless of whether such data are regarded currently as confidential underparagraph
+(c)(1)of this section.
+(d)
+(1) The fact of its existence and the contents of a petition for reclassification filed in accordance with§
+860.130or§ 860.132are available for public disclosure at the time the petition is received by the
+(2) Food and Drug Administration.
+The fact of the existence of a petition for reclassification filed in accordance with§ 860.134or§
+860.136is available for public disclosure at the time the petition is received by the Food and Drug
+Administration. The contents of such a petition are not available for public disclosure for the period
+of time following its receipt (not longer than 30 days) during which the petition is reviewed for any
+deficiencies preventing the Commissioner from making a decision on it. Once it is determined that
+the petition contains no deficiencies preventing the Commissioner from making a decision on it, the
+petition will be filed with the Dockets Management Staff and its entire contents will be available for
+public disclosure and subject to consideration by classification panels and by the Commissioner in
+making a decision on the petition. If, during this 30-day period of time, the petition is found to
+contain deficiencies that prevent the Commissioner from making a decision on it, the petitioner will
+be so notified and afforded an opportunity to correct the deficiencies.
+Thirty days after notice to the petitioner of deficiencies in the petition, the contents of the petition will be
+available for public disclosure unless, within that 30 days, the petitioner submits supplemental material
+intended to correct the deficiencies in the petition. The Commissioner, in the Commissioner's discretion,
+may allow withdrawal of a deficient petition during the 30-day period provided for correcting deficiencies.
+Any supplemental material submitted by the petitioner, together with the material in the original petition, is
+considered as a new petition. The new petition is reviewed for deficiencies in the same manner as the
+original petition, and the same procedures for notification and correction of deficiencies are followed.
+Once the petitioner has corrected the deficiencies, the entire contents of the petition will be available for
+public disclosure and subject to consideration by classification panels and by the Commissioner in
+making a decision on the petition. Deficient petitions which have not been corrected within 180 days after
+notification of deficiency will be returned to the petitioner and will not be considered further unless
+resubmitted.
+(e) The Commissioner may not disclose, or use as the basis for reclassification of a device from class III to
+class II, any information reported to or otherwise obtained by the Commissioner under section 513, 514,
+515, 516, 518, 519, 520(f), 520(g), or 704 of the Federal Food, Drug, and Cosmetic Act that falls within the
+exemption described in§ 20.61 of this chapterfor trade secrets and confidential commercial information.
+The exemption described in§ 20.61does not apply to data or information contained in a petition for
+reclassification submitted in accordance with§ 860.130or§ 860.132, or in a petition submitted in
+accordance with§ 860.134or§ 860.136that has been determined to contain no deficiencies that prevent
+the Commissioner from making a decision on it. Accordingly, all data and information contained in such
+petitions may be disclosed by the Commissioner and used as the basis for reclassification of a device
+from class III to class II.
+21 CFR 860.5(e) (enhanced display) page 5 of 27
+21 CFR 860.5(f)
+(g) (2) (3) 21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(f) For purposes of this section, safety and effectiveness data include data and results derived from all
+studies and tests of a device on animals and humans and from all studies and tests of the device itself
+intended to establish or determine its safety and effectiveness.
+Confidentiality of data and information in a De Novo file is as follows:
+(1) A “De Novo file” includes all data and information from the requester submitted with or incorporated
+by reference in the De Novo request, any De Novo supplement, or any other related submission
+relevant to the administrative file, as defined in§ 10.3(a) of this chapter. Any record in the De Novo
+file will be available for public disclosure in accordance with the provisions of this section andpart
+20 of this chapter.
+The existence of a De Novo file may not be disclosed by FDA before an order granting the De Novo
+request is issued unless it previously has been publicly disclosed or acknowledged by the De Novo
+requester.
+Before an order granting the De Novo request is issued, data or information contained in the De Novo
+file is not available for public disclosure, except to the extent the existence of the De Novo file is
+disclosable underparagraph (g)(2)of this section and such data or information has been publicly
+disclosed or acknowledged by the De Novo requester.
+After FDA issues an order granting a De Novo request, the data and information in the De Novo file
+that are not exempt from release under the Freedom of Information Act,5 U.S.C. 552, are
+immediately available for public disclosure.
+[43 FR 32993, July 28, 1978, as amended at 86 FR 54847, Oct. 5, 2021; 88 FR 45067, July 14, 2023]
+§ 860.7 Determination of safety and effectiveness.
+(a) The classification panels, in reviewing evidence concerning the safety and effectiveness of a device and in
+preparing advice to the Commissioner, and the Commissioner, in making determinations concerning the
+safety and effectiveness of a device, will apply the rules in this section.
+In determining the safety and effectiveness of a device for purposes of classification, establishment of
+special controls for class II devices, and premarket approval of class III devices, the Commissioner and
+the classification panels will consider the following, among other relevant factors:
+(1) The persons for whose use the device is represented or intended;
+(2) The conditions of use for the device, including conditions of use prescribed, recommended, or
+suggested in the labeling or advertising of the device, and other intended conditions of use;
+The probable benefit to health from the use of the device weighed against any probable injury or
+illness from such use; and
+The reliability of the device.
+(4) (b) (3) (4) (c)
+(1) Although the manufacturer may submit any form of evidence to the Food and Drug Administration in
+an attempt to substantiate the safety and effectiveness of a device, the agency relies upon only valid
+scientific evidence to determine whether there is reasonable assurance that the device is safe and
+effective. After considering the nature of the device and the rules in this section, the Commissioner
+will determine whether the evidence submitted or otherwise available to the Commissioner is valid
+21 CFR 860.7(c)(1) (enhanced display) page 6 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.7(c)(2)
+(2) scientific evidence for the purpose of determining the safety or effectiveness of a particular device
+and whether the available evidence, when taken as a whole, is adequate to support a determination
+that there is reasonable assurance that the device is safe and effective for its conditions of use.
+Valid scientific evidence is evidence from well-controlled investigations, partially controlled studies,
+studies and objective trials without matched controls, well-documented case histories conducted by
+qualified experts, and reports of significant human experience with a marketed device, from which it
+can fairly and responsibly be concluded by qualified experts that there is reasonable assurance of
+the safety and effectiveness of a device under its conditions of use. The evidence required may vary
+according to the characteristics of the device, its conditions of use, the existence and adequacy of
+warnings and other restrictions, and the extent of experience with its use. Isolated case reports,
+random experience, reports lacking sufficient details to permit scientific evaluation, and
+unsubstantiated opinions are not regarded as valid scientific evidence to show safety or
+effectiveness. Such information may be considered, however, in identifying a device with
+questionable safety or effectiveness.
+(d)
+(1) (2) There is reasonable assurance that a device is safe when it can be determined, based upon valid
+scientific evidence, that the probable benefits to health from use of the device for its intended uses
+and conditions of use, when accompanied by adequate directions and warnings against unsafe use,
+outweigh any probable risks. The valid scientific evidence used to determine the safety of a device
+shall adequately demonstrate the absence of unreasonable risk of illness or injury associated with
+the use of the device for its intended uses and conditions of use.
+Among the types of evidence that may be required, when appropriate, to determine that there is
+reasonable assurance that a device is safe are investigations using laboratory animals,
+investigations involving human subjects, nonclinical investigations, and analytical studies for in vitro
+diagnostic devices.
+(e)
+(f) (1) (2) There is reasonable assurance that a device is effective when it can be determined, based upon valid
+scientific evidence, that in a significant portion of the target population, the use of the device for its
+intended uses and conditions of use, when accompanied by adequate directions for use and
+warnings against unsafe use, will provide clinically significant results.
+The valid scientific evidence used to determine the effectiveness of a device shall consist principally
+of well-controlled investigations, as defined inparagraph (f)of this section, unless the Commissioner
+authorizes reliance upon other valid scientific evidence which the Commissioner has determined is
+sufficient evidence from which to determine the effectiveness of a device, even in the absence of
+well-controlled investigations. The Commissioner may make such a determination where the
+requirement of well-controlled investigations inparagraph (f)of this section is not reasonably
+applicable to the device.
+The following principles have been developed over a period of years and are recognized by the scientific
+community as the essentials of a well-controlled clinical investigation. They provide the basis for the
+Commissioner's determination whether there is reasonable assurance that a device is effective based
+upon well-controlled investigations and are also useful in assessing the weight to be given to other valid
+scientific evidence permitted under this section.
+21 CFR 860.7(f) (enhanced display) page 7 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.7(f)(1)
+(1) The plan or protocol for the study and the report of the results of a well-controlled investigation shall
+include the following:
+(i) (ii) (iii) (iv) (v) A clear statement of the objectives of the study;
+A method of selection of the subjects that:
+(a) Provides adequate assurance that the subjects are suitable for the purposes of the study,
+provides diagnostic criteria of the condition to be treated or diagnosed, provides
+confirmatory laboratory tests where appropriate and, in the case of a device to prevent a
+disease or condition, provides evidence of susceptibility and exposure to the condition
+against which prophylaxis is desired;
+(b) Assigns the subjects to test groups, if used, in such a way as to minimize any possible
+bias;
+(c) Assures comparability between test groups and any control groups of pertinent variables
+such as sex, severity or duration of the disease, and use of therapy other than the test
+device;
+An explanation of the methods of observation and recording of results utilized, including the
+variables measured, quantitation, assessment of any subject's response, and steps taken to
+minimize any possible bias of subjects and observers;
+A comparison of the results of treatment or diagnosis with a control in such a fashion as to
+permit quantitative evaluation. The precise nature of the control must be specified and an
+explanation provided of the methods employed to minimize any possible bias of the observers
+and analysts of the data. Level and methods of “blinding,” if appropriate and used, are to be
+documented. Generally, four types of comparisons are recognized:
+(a) No treatments. Where objective measurements of effectiveness are available and placebo
+effect is negligible, comparison of the objective results in comparable groups of treated
+and untreated patients;
+(b) Placebo control.Where there may be a placebo effect with the use of a device, comparison
+of the results of use of the device with an ineffective device used under conditions
+designed to resemble the conditions of use under investigation as far as possible;
+(c) Active treatment control.Where an effective regimen of therapy may be used for
+comparison, e.g., the condition being treated is such that the use of a placebo or the
+withholding of treatment would be inappropriate or contrary to the interest of the patient;
+(d) Historical control.In certain circumstances, such as those involving diseases with high
+and predictable mortality or signs and symptoms of predictable duration or severity, or in
+the case of prophylaxis where morbidity is predictable, the results of use of the device
+may be compared quantitatively with prior experience historically derived from the
+adequately documented natural history of the disease or condition in comparable patients
+or populations who received no treatment or who followed an established effective
+regimen (therapeutic, diagnostic, prophylactic).
+A summary of the methods of analysis and an evaluation of the data derived from the study,
+including any appropriate statistical methods utilized.
+21 CFR 860.7(f)(1)(v) (enhanced display) page 8 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.7(f)(2)
+(2) To insure the reliability of the results of an investigation, a well-controlled investigation shall involve
+the use of a test device that is standardized in its composition or design and performance.
+(g)
+(1) (2) (3) (4) It is the responsibility of each manufacturer and importer of a device to assure that adequate, valid
+scientific evidence exists, and to furnish such evidence to the Food and Drug Administration to
+provide reasonable assurance that the device is safe and effective for its intended uses and
+conditions of use. The failure of a manufacturer or importer of a device to present to the Food and
+Drug Administration adequate, valid scientific evidence showing that there is reasonable assurance
+of the safety and effectiveness of the device, if regulated by general controls alone, or by general
+controls and special controls, may support a determination that the device be classified into class III.
+The Commissioner may require that a manufacturer, importer, or distributor make reports or provide
+other information bearing on the classification of a device and indicating whether there is
+reasonable assurance of the safety and effectiveness of the device or whether it is adulterated or
+misbranded under the Federal Food, Drug, and Cosmetic Act.
+A requirement for a report or other information under this paragraph will comply with section 519 of
+the Federal Food, Drug, and Cosmetic Act. Accordingly, the requirement will state the reason or
+purpose for such request; will describe the required report or information as clearly as possible; will
+not be imposed on a manufacturer, importer, or distributor of a classified device that has been
+exempted from such a requirement in accordance with§ 860.95; will prescribe the time for
+compliance with the requirement; and will prescribe the form and manner in which the report or
+information is to be provided.
+Required information that has been submitted previously to the Center for Devices and Radiological
+Health, the Center for Biologics Evaluation and Research, or the Center for Drug Evaluation and
+Research, as applicable, need not be resubmitted, but may be incorporated by reference.
+[43 FR 32993, July 28, 1978, as amended at 53 FR 11253, Apr. 6, 1988; 73 FR 49942, Aug. 25, 2008; 83 FR 64454, Dec. 17, 2018]
+§ 860.10 Implants and life-supporting or life-sustaining devices.
+A classification panel will recommend classification into class III of any implant or life-supporting or life-
+sustaining device unless the panel determines that such classification is not necessary to provide
+reasonable assurance of the safety and effectiveness of the device. If the panel recommends
+classification or reclassification of such a device into a class other than class III, it shall set forth in its
+recommendation the reasons for so doing and an identification of the risks to health, if any, presented by
+the device. In the case of such a device being recommended for classification or reclassification into
+class II, the panel shall describe the special controls that, in addition to general controls, the panel
+believes are necessary to provide reasonable assurance of safety and effectiveness of the device and
+how such controls provide such assurance.
+The Commissioner will classify an implant or life-supporting or life-sustaining device into class III unless
+the Commissioner determines that such classification is not necessary to provide reasonable assurance
+of the safety and effectiveness of the device. If the Commissioner proposes to classify or reclassify such
+a device into a class other than class III, the regulation or order effecting such classification or
+reclassification will be accompanied by a full statement of the reasons for so doing. A statement of the
+reasons for not classifying or retaining the device in class III may be in the form of concurrence with the
+reasons for the recommendation of the classification panel, together with supporting documentation and
+21 CFR 860.10(b) (enhanced display) page 9 of 27
+(a) (b) 
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.15
+data satisfying the requirements of§ 860.7and an identification of the risks to health, if any, presented by
+the device. In the case of such a device being classified or reclassified into class II, the Commissioner
+shall describe the special controls that, in addition to general controls, the panel believes are necessary to
+provide reasonable assurance of safety and effectiveness of the device and how such controls provide
+such assurance.
+[83 FR 64455, Dec. 17, 2018]
+§ 860.15 Exemptions from sections 510, 519, and 520(f) of the Federal Food, Drug, and Cosmetic
+Act.
+(a) (b) (c) A panel recommendation to the Commissioner that a device be classified or reclassified into class I will
+include a recommendation as to whether the device should be exempted from some or all of the
+requirements of one or more of the following sections of the Federal Food, Drug, and Cosmetic Act:
+Section 510 (registration, product listing, and premarket notification), section 519 (records and reports)
+and section 520(f) (good manufacturing practice requirements of the quality system regulation), and, in
+the case of a recommendation for classification into class II, whether the device should be exempted
+from the premarket notification requirement under section 510.
+A regulation or an order classifying or reclassifying a device into class I will specify which requirements, if
+any, of sections 510, 519, and 520(f) of the Federal Food, Drug, and Cosmetic Act the device is to be
+exempted from or, in the case of a regulation or an order classifying or reclassifying a device into class II,
+whether the device is to be exempted from the premarket notification requirement under section 510,
+together with the reasons for such exemption.
+The Commissioner will grant exemptions under this section only if the Commissioner determines that the
+requirements from which the device is exempted are not necessary to provide reasonable assurance of
+the safety and effectiveness of the device.
+[83 FR 64455, Dec. 17, 2018]
+Subpart B—Classification
+§ 860.84 Classification procedures for “preamendments devices.
+”
+(a) (b) This subpart sets forth the procedures for the original classification of a generic type of device that was in
+commercial distribution before May 28, 1976. Such a device will be classified by regulation into either
+class I (general controls), class II (special controls) or class III (premarket approval), depending upon the
+level of regulatory control required to provide reasonable assurance of the safety and effectiveness of the
+device (§ 860.3(c)). This subpart does not apply to a device that is classified into class III by statute under
+section 513(f)(1) of the Federal Food, Drug, and Cosmetic Act because the Food and Drug Administration
+has determined that the device is not “substantially equivalent” to any device subject to this subpart or
+under section 520(l)(1) of the Federal Food, Drug, and Cosmetic Act because the device was regarded
+previously as a new drug. In classifying apreamendments device to which this section applies, the Food
+and Drug Administration will follow the procedures described inparagraphs (b)through(g)of this section.
+The Commissioner refers the device to the appropriate classification panel organized and operated in
+accordance with section 513 (b) and (c) of the Federal Food, Drug, and Cosmetic Act andpart 14 of this
+chapter.
+21 CFR 860.84(b) (enhanced display) page 10 of 27
+21 CFR 860.84(c)
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(c) (d) (e) In order to make recommendations to the Commissioner on the class of regulatory control (class I, class
+II, or class III) appropriate for the device, the panel reviews the device for safety and effectiveness. In so
+doing, the panel:
+(1) Considers the factors set forth in§ 860.7relating to the determination of safety and effectiveness;
+(2) Determines the safety and effectiveness of the device on the basis of the types of scientific evidence
+set forth in§ 860.7; and
+(3) Provides, to the maximum extent practicable, an opportunity for interested persons to submit data
+and views on the classification of the device in accordance withpart 14 of this chapter.
+Based upon its review of evidence of the safety and effectiveness of the device, and applying the
+definition of each class in§ 860.3(c), the panel submits to the Commissioner a recommendation
+regarding the classification of the device. The recommendation will include:
+(1) A summary of the reasons for the recommendation;
+(2) A summary of the data upon which the recommendation is based;
+(3) An identification of the risks to health (if any) presented by the device;
+(4) In the case of a recommendation for classification into class I, a recommendation as to whether the
+device should be exempted from the requirements of one or more of the following sections of the
+Federal Food, Drug, and Cosmetic Act: Section 510 (registration, product listing, and premarket
+notification), section 519 (records and reports), and section 520(f) (good manufacturing practice
+requirements of the quality system regulation) and, in the case of a recommendation for
+classification into class II, whether the device should be exempted from the premarket notification
+requirement under section 510, in accordance with§ 860.15;
+(5) In the case of a recommendation for classification into class II or class III, to the extent practicable, a
+recommendation for the assignment to the device of a priority for the application of a performance
+standard or a premarket approval requirement, and in the case of classification into class II, a
+recommendation on the establishment of special controls and whether the device should be
+exempted from premarket notification in accordance with§ 860.15; and
+(6) In the case of a recommendation for classification of an implant or a life-supporting or life-sustaining
+device into class I or class II, a statement of why premarket approval is not necessary to provide
+reasonable assurance of the safety and effectiveness of the device and an identification of the risks
+to health, if any, presented by the device, in accordance with§ 860.10.
+A panel recommendation is regarded as preliminary until the Commissioner has reviewed it, discussed it
+with the panel if appropriate, and published a proposed regulation classifying the device. Preliminary
+panel recommendations are filed at Dockets Management Staff upon receipt and are available to the
+public athttps://www.regulations.gov.
+(f) (g) The Commissioner publishes the panel's recommendation in theFEDERAL REGISTER,together with a
+proposed regulation classifying the device, and other devices of that generic type, and provides interested
+persons an opportunity to submit comments on the recommendation and proposed regulation.
+The Commissioner reviews the comments and issues a final regulation classifying the device and other
+devices of that generic type. The regulation will:
+21 CFR 860.84(g) (enhanced display) page 11 of 27
+21 CFR 860.84(g)(1)
+(2) (a) (b) 21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(1) If classifying the device into class I, prescribe which, if any, of the requirements of sections 510, 519,
+and 520(f) of the Federal Food, Drug, and Cosmetic Act will not apply to the device and state the
+reasons for making the requirements inapplicable, in accordance with§ 860.95;
+If classifying the device into class II, establish the special controls for the device and prescribe
+whether the premarket notification requirement will apply to the device; and
+(3) If classifying an implant, or a life-supporting or life-sustaining device, comply with§ 860.10(b).
+[43 FR 32993, July 28, 1978, as amended at 57 FR 58404, Dec. 10, 1992; 64 FR 404, Jan. 5, 1999; 83 FR 64455, Dec. 17, 2018]
+§ 860.90 Consultation with panels.
+When the Commissioner is required to consult with a panel concerning a classification under§ 860.84,
+the Commissioner will consult with the panel in one of the following ways:
+(1) Consultation by telephone with at least a majority of current voting panel members and, when
+possible, nonvoting panel members in a telephone or video conference call; or
+(2) Discussion at a panel meeting.
+The method of consultation chosen by the Commissioner will depend upon the importance and
+complexity of the subject matter involved and the time available for action. When time and circumstances
+permit, the Commissioner will consult with a panel through discussion at a panel meeting.
+[83 FR 64456, Dec. 17, 2018]
+Subpart C—Reclassification
+§ 860.120 General.
+(a) Sections 513(e) and (f), 514(b), 515(b), and 520(l) of the Federal Food, Drug, and Cosmetic Act provide for
+reclassification of a device and prescribe the procedures to be followed to effect reclassification. The
+purposes of subpart C are to:
+(1) Set forth the requirements as to form and content of petitions for reclassification;
+(2) Describe the circumstances in which each of the five statutory reclassification provisions applies;
+and
+(3) Explain the procedure for reclassification prescribed in the five statutory reclassification provisions.
+The criteria for determining the proper class for a device are set forth in§ 860.3(c). The reclassification of
+any device within a generic type of device causes the reclassification of all devices within that generic
+type. Accordingly, a petition for the reclassification of a specific device will be considered a petition for
+reclassification of all devices within the same generic type.
+Any interested person may submit a petition for reclassification under section 513(e), 514(b), or 515(b) of
+the Federal Food, Drug, and Cosmetic Act. A manufacturer or importer may submit a petition for
+reclassification under section 513(f) or 520(l) of the Federal Food, Drug, and Cosmetic Act. The
+Commissioner may initiate the reclassification of a device under the following sections of the Federal
+Food, Drug, and Cosmetic Act:
+(b) (c) 21 CFR 860.120(c) (enhanced display) page 12 of 27
+21 CFR 860.120(c)(1)
+(2) (3) (3) (4) 21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(1) Section 513(e) (for a classified device other than a device classified into class III under section
+513(f)(1) or 520(l)(1) of the Federal Food, Drug, and Cosmetic Act);
+Section 513(f)(3) (for a device classified into class III under section 513(f)(1) of the Federal Food,
+Drug, and Cosmetic Act); or
+Section 520(l)(2) (for a device classified into class III under section 520(l)(1) of the Federal Food,
+Drug, and Cosmetic Act).
+[43 FR 32993, July 28, 1978, as amended at 57 FR 58404, Dec. 10, 1992; 83 FR 64456, Dec. 17, 2018]
+§ 860.123 Reclassification petition: Content and form.
+(a) Unless otherwise provided in writing by the Commissioner, any petition for reclassification of a device,
+regardless of the section of the Federal Food, Drug, and Cosmetic Act under which it is filed, shall include
+the following:
+(1) A specification of the type of device for which reclassification is requested;
+(2) A statement of the action requested by the petitioner, e.g., “It is requested that _ device(s) be
+reclassified from class III to a class II”;
+A statement of the basis for disagreement with the present classification status of the device;
+A full statement of the reasons, together with supporting data satisfying the requirements of§ 860.7,
+why the device should not be classified into its present classification and how the proposed
+classification will provide reasonable assurance of the safety and effectiveness of the device;
+Representative data and information known by the petitioner that are unfavorable to the petitioner's
+position;
+If the petition is based upon new information under section 513(e), 514(b), or 515(b) of the Federal
+Food, Drug, and Cosmetic Act, a summary of the new information;
+Copies of source documents from which new information used to support the petition has been
+obtained (attached as appendices to the petition); and
+A financial certification or disclosure statement or both as required bypart 54 of this chapter.
+Each petition submitted pursuant to this section shall be:
+For devices regulated by the Center for Devices and Radiological Health, addressed to the Food and
+Drug Administration, Center for Devices and Radiological Health, Office of Policy Staff, 10903 New
+Hampshire Ave., Bldg. 66, Rm. 5445, Silver Spring, MD 20993-0002; for devices regulated by the
+Center for Biologics Evaluation and Research, addressed to the Food and Drug Administration,
+Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave.,
+Bldg. 71, Rm. G112, Silver Spring, MD 20993-0002; for devices regulated by the Center for Drug
+Evaluation and Research, addressed to the Food and Drug Administration, Center for Drug Evaluation
+and Research, Central Document Control Room, 5901-B Ammendale Rd., Beltsville, MD 20705-1266,
+as applicable.
+Marked clearly with the section of the Federal Food, Drug, and Cosmetic Act under which the petition
+is being submitted,i.e., “513(e),” “513(f)(3),” “514(b),” “515(b),” or “520(l) Petition”;
+(3) Bound in a volume or volumes, where necessary; and
+21 CFR 860.123(b)(3) (enhanced display) (5) (6) (7) (b) (8) (1) (2) page 13 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(4) Submitted in an original and two copies.
+21 CFR 860.123(b)(4)
+[43 FR 32993, July 28, 1978, as amended at 49 FR 14505, Apr. 12, 1984; 53 FR 11253, Apr. 6, 1988; 55 FR 11169, Mar. 27, 1990; 63
+FR 5254, Feb. 2, 1998; 65 FR 17137, Mar. 31, 2000; 73 FR 49942, Aug. 25, 2008; 75 FR 20916, Apr. 22, 2010; 79 FR 77388, Dec. 24,
+2014; 82 FR 39535, Aug. 21, 2017; 83 FR 64456, Dec. 17, 2018; 85 FR 18443, Apr. 2, 2020]
+(a) (b) (c) § 860.125 Consultation with panels.
+When the Commissioner chooses to refer a reclassification petition to a classification panel for its
+recommendation under§ 860.134(b), or the Commissioner is required to consult with a panel concerning
+a reclassification petition submitted under§ 860.130(d)or received in a proceeding under§ 860.133(b),
+or the Commissioner chooses to consult with a panel with regard to the reclassification of a device
+initiated by the Commissioner under§ 860.134(c)or§ 860.136, the Commissioner will distribute a copy
+of the petition, or its relevant portions, if applicable, to each panel member and will consult with the panel
+in one of the following ways:
+(1) Consultation by telephone with at least a majority of current voting panel members and, when
+possible, nonvoting panel members in a telephone or video conference call; or
+(2) Discussion at a panel meeting.
+The method of consultation chosen by the Commissioner will depend upon the importance and
+complexity of the subject matter involved and the time available for action. When time and circumstances
+permit, the Commissioner will consult with a panel through discussion at a panel meeting.
+The Commissioner will consult with a classification panel prior to changing the classification of a device
+in a proceeding under section 513(e) of the Federal Food, Drug, and Cosmetic Act and§ 860.130upon the
+Commissioner's own initiative or upon petition of an interested person, and in the latter case, the
+Commissioner will distribute a copy of the petition, or its relevant portions, to each panel member.
+When a petition is submitted under§ 860.134for a postamendments, not substantially equivalent, device,
+if the Commissioner chooses to consult with the panel, the Commissioner will obtain a recommendation
+that includes the information described in§ 860.84(d). In consulting with a panel about a petition
+submitted under§ 860.130(d),§ 860.136(a), or received in a proceeding under§ 860.133(b), the
+Commissioner may or may not obtain a formal recommendation.
+[43 FR 32993, July 28, 1978, as amended at 83 FR 64456, Dec. 17, 2018]
+§ 860.130 General procedures under section 513(e) of the Federal Food, Drug, and Cosmetic Act.
+Section 513(e) of the Federal Food, Drug, and Cosmetic Act applies to reclassification proceedings under
+the Federal Food, Drug, and Cosmetic Act based upon new information.
+A proceeding to reclassify a device under section 513(e) may be initiated:
+(1) On the initiative of the Commissioner alone;
+(2) On the initiative of the Commissioner in response to a request for change in classification based
+upon new information, under section 514(b) or 515(b) of the Federal Food, Drug, and Cosmetic Act
+(see§ 860.132); or
+In response to the petition of an interested person, based upon new information, filed in accordance
+with§ 860.123.
+(d) (a) (b) (3) 21 CFR 860.130(b)(3) (enhanced display) page 14 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.130(c)
+(c) By administrative order published under this section, the Commissioner may change the classification
+from:
+(1) Class I or class II to class III if the Commissioner determines that the device meets the criteria set
+forth in§ 860.3(c)(3)for a class III device; or
+(2) Class III or class I to class II if the Commissioner determines that the device meets the criteria set
+forth in§ 860.3(c)(2)for a class II device; or
+(3) Class III or class II to class I if the Commissioner determines that the device meets the criteria set
+forth in§ 860.3(c)(1)for a class I device.
+(d)
+(e) (f) (g) (1) The Commissioner shall consult with a classification panel and may secure a recommendation with
+respect to reclassification of a device from a classification panel. The panel will consider
+reclassification in accordance with the consultation procedures of§ 860.125. A recommendation
+submitted to the Commissioner by the panel will be published in theFEDERAL REGISTERwhen the
+Commissioner publishes an administrative order under this section.
+(2) The Commissioner may change the classification of a device by administrative order published in the
+FEDERAL REGISTERfollowing publication of a proposed reclassification order in theFEDERAL REGISTER,a
+meeting of a device classification panel described in section 513(b) of the Federal Food, Drug, and
+Cosmetic Act, and consideration of comments to a public docket.
+Within 180 days after the filing of a petition for reclassification under this section, the Commissioner will
+either deny the petition by order published in theFEDERAL REGISTERor give notice of the intent to initiate a
+change in the classification of the device.
+If a device is reclassified under this section, the administrative order effecting the reclassification may
+revoke any special control or premarket approval requirement that previously applied to the device but
+that is no longer applicable because of the change in classification.
+An administrative order under this section changing the classification of a device to class II may provide
+that such reclassification will not take effect until the effective date of a performance standard for the
+device established under section 514 of the Federal Food, Drug, and Cosmetic Act or other special
+controls established under the order. An order under this section changing the classification of a device to
+class II may also establish the special controls necessary to provide reasonable assurance of the safety
+and effectiveness of the device.
+[43 FR 32993, July 28, 1978, as amended at 57 FR 58404, Dec. 10, 1992; 83 FR 64456, Dec. 17, 2018]
+§ 860.132 Procedures when the Commissioner initiates a performance standard or premarket
+approval proceeding under section 514(b) or 515(b) of the Federal Food, Drug, and Cosmetic Act.
+(a) Sections 514(b) and 515(b) of the Federal Food, Drug, and Cosmetic Act require the Commissioner to
+provide, by notice in theFEDERAL REGISTER,an opportunity for interested parties to petition to change the
+classification of a device based upon new information relevant to its classification when the
+Commissioner initiates a proceeding to develop a performance standard for the device if in class II or to
+issue an order requiring premarket approval for the device if in class III.
+21 CFR 860.132(a) (enhanced display) page 15 of 27
+21 CFR 860.132(b)
+(c) (d) (2) (3) 21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(b) If the Commissioner agrees that the new information submitted in response to a proposed order to
+require premarket approval of a device issued under section 515(b) of the Federal Food, Drug, and
+Cosmetic Act warrants a change in classification, the Commissioner shall follow the administrative order
+procedures under section 513(e) of the Federal Food, Drug, and Cosmetic Act and§ 860.130to effect
+such a change.
+If the Commissioner does not agree that the new information submitted in response to a proposed order
+to require premarket approval of a device issued under section 515(b) of the Federal Food, Drug, and
+Cosmetic Act warrants a change in classification, the Commissioner will deny the petition.
+The procedures under section 514(b) of the Federal Food, Drug, and Cosmetic Act are as follows:
+(1) Within 30 days after publication of the Commissioner's notice referred to inparagraph (a)of this
+section, an interested person files a petition for reclassification in accordance with§ 860.123.
+The Commissioner consults with the appropriate classification panel with regard to the petition in
+accordance with§ 860.125.
+Within 60 days after publication of the notice referred to inparagraph (a)of this section, the
+Commissioner either denies the petition or gives notice of the intent to initiate a change in
+classification in accordance with§ 860.130.
+[43 FR 32993, July 28, 1978, as amended at 83 FR 64457, Dec. 17, 2018]
+§ 860.133 Procedures when the Commissioner initiates a proceeding to require premarket
+approval under section 515(b) of the Federal Food, Drug, and Cosmetic Act.
+(a) Section 515(b) of the Federal Food, Drug, and Cosmetic Act applies to proceedings to require premarket
+approval for a class III preamendments device.
+The Commissioner may require premarket approval for a class III preamendments device by
+administrative order published in theFEDERAL REGISTERfollowing publication of a proposed order in the
+FEDERAL REGISTER,a meeting of a device classification panel described in section 513(b) of the Federal
+Food, Drug, and Cosmetic Act, and consideration of comments from all affected stakeholders, including
+patients, payors, and providers. The panel will consider reclassification petitions received in the
+proceeding in accordance with section 513(e) of the Federal Food, Drug, and Cosmetic and the applicable
+consultation procedures in§ 860.125. A recommendation submitted to the Commissioner by the panel
+will be published in theFEDERAL REGISTERwhen the Commissioner publishes an administrative order under
+this section.
+[83 FR 64457, Dec. 17, 2018]
+§ 860.134 Procedures for reclassification of “postamendments devices” under section 513(f)(3)
+of the Federal Food, Drug, and Cosmetic Act.
+(a) Section 513(f)(3) of the Federal Food, Drug, and Cosmetic Act applies to proceedings for reclassification
+of a device currently in class III by operation of section 513(f)(1) of the Federal Food, Drug, and Cosmetic
+Act. This category includes any device that is to be first introduced or delivered for introduction into
+interstate commerce for commercial distribution after May 28, 1976, unless:
+(b) 21 CFR 860.134(a) (enhanced display) page 16 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.134(a)(1)
+(1) It is substantially equivalent to another device that was in commercial distribution before that date
+and had not been regulated before that date as a new drug; or
+(2) It is substantially equivalent to another device that was not in commercial distribution before such
+date but which has been classified into class I or class II; or
+(3) The Commissioner has classified the device into class I or class II in response to a petition for
+reclassification under this section; or
+(4) The device is classified under a request for De Novo classification under section 513(f)(2) of the
+Federal Food, Drug, and Cosmetic Act.
+(b) The procedures for effecting reclassification under section 513(f)(3) of the Federal Food, Drug, and
+Cosmetic Act when initiated by a manufacturer or importer are as follows:
+(1) The manufacturer or importer of the device petitions for reclassification of the device in accordance
+with§ 860.123.
+(2) (3) (4) Within 30 days after the petition is filed, the Commissioner notifies the petitioner of any deficiencies
+in the petition that prevent the Commissioner from making a decision on it and allows the petitioner
+to supplement a deficient petition. Within 30 days after any supplemental material is received, the
+Commissioner notifies the petitioner whether the petition, as supplemented, is adequate for review.
+After determining that the petition contains no deficiencies precluding a decision on it, the
+Commissioner may for good cause shown refer the petition to the appropriate classification panel
+for its review and recommendation whether to approve or deny the petition.
+Within 90 days after the date the petition is referred to the panel, following the review procedures set
+forth in§ 860.84(c)for the original classification of a “preamendments device”, the panel submits to
+(5) (6) (7) (c) the Commissioner its recommendation containing the information set forth in§ 860.84(d). A panel
+recommendation is regarded as preliminary until the Commissioner has reviewed it, discussed it
+with the panel, if appropriate, and developed a proposed reclassification order. Preliminary panel
+recommendations are filed at Dockets Management Staff upon receipt and are available to the
+public and posted athttps://www.regulations.gov.
+The panel recommendation is published in theFEDERAL REGISTERas soon as practicable and
+interested persons are provided an opportunity to comment on the recommendation.
+Within 90 days after the panel's recommendation is received (and no more than 210 days after the
+date the petition was filed), the Commissioner denies or approves the petition by order in the form of
+a letter to the petitioner. If the Commissioner approves the petition, the order will classify the device
+into class I or class II in accordance with the criteria set forth in§ 860.3(c)and subject to the
+applicable requirements of§ 860.10, relating to the classification of implants and life-supporting or
+life-sustaining devices, and§ 860.15, relating to exemptions from certain requirements of the
+Federal Food, Drug, and Cosmetic Act.
+Within a reasonable time after issuance of an order under this section, the Commissioner announces
+the order by notice published in theFEDERAL REGISTER.
+By administrative order published under section 513(f)(3) of the Federal Food, Drug, and Cosmetic Act, the
+Commissioner may, on the Commissioner's own initiative, change the classification from class III under
+section 513(f)(1) either to class II, if the Commissioner determines that special controls in addition to
+general controls are necessary and sufficient to provide reasonable assurance of the safety and
+21 CFR 860.134(c) (enhanced display) page 17 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.134(c)(1)
+(2) (3) (d) effectiveness of the device and there is sufficient information to establish special controls to provide such
+assurance, or to class I if the Commissioner determines that general controls alone would provide
+reasonable assurance of the safety and effectiveness of the device. The procedures for the
+reclassification proceeding under thisparagraph (c)are as follows:
+(1) The Commissioner publishes a proposed reclassification order in theFEDERAL REGISTERseeking
+comment on the proposed reclassification.
+The Commissioner may consult with the appropriate classification panel with respect to the
+reclassification of the device. The panel will consider reclassification in accordance with the
+consultation procedures of§ 860.125.
+Following consideration of comments to a public docket and any panel recommendations or
+comments, the Commissioner may change the classification of a device by final administrative order
+published in theFEDERAL REGISTER.
+An administrative order under this section changing the classification of a device from class III to class II
+may establish the special controls necessary to provide reasonable assurance of the safety and
+effectiveness of the device.
+[43 FR 32993, July 28, 1978, as amended at 57 FR 58404, Dec. 10, 1992; 73 FR 34860, June 19, 2008; 83 FR 64457, Dec. 17, 2018]
+§ 860.136 Procedures for transitional products under section 520(l) of the Federal Food, Drug,
+and Cosmetic Act.
+(a) Section 520(l)(2) of the Federal Food, Drug, and Cosmetic Act applies to reclassification proceedings
+initiated by the Commissioner or in response to a request by a manufacturer or importer for
+reclassification of a device currently in class III by operation of section 520(l)(1). This section applies only
+to devices that the Food and Drug Administration regarded as “new drugs” before May 28, 1976.
+The procedures for effecting reclassification under section 520(l) of the Federal Food, Drug, and Cosmetic
+Act when initiated by a manufacturer or importer are as follows:
+(1) The manufacturer or importer of the device files a petition for reclassification of the device in
+accordance with§ 860.123.
+Within 30 days after the petition is filed, the Commissioner notifies the petitioner of any deficiencies
+in the petition that prevent the Commissioner from making a decision on it, allowing the petitioner to
+supplement a deficient petition. Within 30 days after any supplemental material is received, the
+Commissioner notifies the petitioner whether the petition, as supplemented, is adequate for review.
+The Commissioner consults with the appropriate classification panel with regard to the petition in
+accordance with§ 860.125.
+Within 180 days after the petition is filed (where the Commissioner has determined it to be adequate
+for review), the Commissioner, by order in the form of a letter to the petitioner, either denies the
+petition or classifies the device into class I or class II in accordance with the criteria set forth in§
+860.3(c).
+(b) (2) (3) (4) (5) Within a reasonable time after issuance of an order under this section, the Commissioner announces
+the order by notice published in theFEDERAL REGISTER.
+21 CFR 860.136(b)(5) (enhanced display) page 18 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.136(c)
+(c) By administrative order, the Commissioner may, on the Commissioner's own initiative, change the
+classification from class III under section 520(l) of the Federal Food, Drug, and Cosmetic Act either to
+class II, if the Commissioner determines that special controls in addition to general controls are
+necessary and sufficient to provide reasonable assurance of the safety and effectiveness of the device
+and there is sufficient information to establish special controls to provide such assurance, or to class I if
+the Commissioner determines that general controls alone would provide reasonable assurance of the
+safety and effectiveness of the device. The procedures for the reclassification proceeding under this
+paragraph (c)are as follows:
+(1) (2) (3) The Commissioner publishes a proposed reclassification order in theFEDERAL REGISTERseeking
+comment on the proposed reclassification.
+The Commissioner may consult with the appropriate classification panel with respect to the
+reclassification of the device. The panel will consider reclassification in accordance with the
+consultation procedures of§ 860.125.
+Following consideration of comments to a public docket and any panel recommendations or
+comments, the Commissioner may change the classification of a device by final administrative order
+published in theFEDERAL REGISTER.
+An administrative order under this section changing the classification of a device from class III to class II
+may establish the special controls necessary to provide reasonable assurance of the safety and
+effectiveness of the device.
+[43 FR 32993, July 28, 1978, as amended at 83 FR 64458, Dec. 17, 2018]
+Subpart D—De Novo Classification
+Source: 86 FR 54847, Oct. 5, 2021, unless otherwise noted.
+(d) § 860.200 Purpose and applicability.
+(a) The purpose of this part is to establish an efficient, transparent, and thorough process to facilitate De
+Novo classification into class I or class II for devices for which there is no legally marketed device on
+which to base a review of substantial equivalence and which meet the definition of class I or class II as
+described in section 513(a)(1) of the Federal Food, Drug, and Cosmetic Act and§ 860.3.
+(b) De Novo requests can be submitted for a single device type:
+(1) After receiving a not substantially equivalent determination in response to a premarket notification
+(510(k)), or
+(2) If a person determines there is no legally marketed device upon which to base a determination of
+substantial equivalence.
+§ 860.210 De Novo request format.
+(a) Each De Novo request or information related to a De Novo request pursuant to this part must be
+formatted in accordance with this section. Each De Novo request must be provided as a single version in
+electronic format. These materials must:
+(1)
+21 CFR 860.210(a)(1) (enhanced display) page 19 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(i) (ii) For devices regulated by the Center for Biologics Evaluation and Research, be sent to the
+current address displayed on the websitehttps://www.fda.gov/about-fda/center-biologics-
+evaluation-and-research-cber/regulatory-submissions-electronic-and-paper.
+21 CFR 860.210(a)(1)(i)
+For devices regulated by the Center for Devices and Radiological Health, be sent to the current
+address displayed on the websitehttps://www.fda.gov/cdrhsubmissionaddress.
+(2) Be signed by the requester or an authorized representative.
+(3) Be designated “De Novo Request” in the cover letter.
+(4) Have all content used to support the request written in, or translated into, English.
+§ 860.220 De Novo request content.
+(a) Unless the requester justifies an omission in accordance withparagraph (c)of this section, a De Novo
+request must include:
+(1) (2) (3) (4) (5) (6) Table of contents. A table of contents that specifies the volume (if the De Novo request contains
+more than one volume) and page number for each item.
+Administrative information. The name, address, phone, and email address of the requester and U.S.
+representative, if applicable. The establishment registration number, if applicable, of the owner or
+operator submitting the De Novo request.
+Regulatory history.Identify any prior submissions to FDA for the device, including, but not limited to,
+any premarket notifications (510(k)s) submitted underpart 807 of this chapter; applications for
+premarket approval (PMAs) submitted underpart 814 of this chapter; applications for humanitarian
+device exemption (HDE) submitted underpart 814 of this chapter; applications for investigational
+device exemption (IDEs) submitted underpart 812 of this chapter; requests for designation (RFD)
+under§ 3.7 of this chapter; requests for information under section 513(g) of the Federal Food, Drug,
+and Cosmetic Act; applications for emergency use authorization (EUA) under section 564 of the
+Federal Food, Drug, and Cosmetic Act; pre-submissions, or previously submitted De Novo requests;
+or state that there have been no prior submissions.
+Device name. The generic name of the device as well as any proprietary name or trade name.
+Indications for use. A general description of the disease or condition the device is intended to
+diagnose, treat, prevent, cure or mitigate, or affect the structure or function of the body, including a
+description of the patient population for which the device is intended. The indications for use include
+all the labeled patient uses of the device, including if it is prescription or over-the-counter.
+Device description. A complete description of:
+(i) The device, including, where applicable, pictorial representations, device specifications, and
+engineering drawings;
+(ii) Each of the functional components or ingredients of the device, if the device consists of more
+than one physical component or ingredient;
+(iii) The properties of the device relevant to the diagnosis, treatment, prevention, cure, or mitigation
+of a disease or condition and/or the effect of the device on the structure or function of the
+body;
+(iv) The principles of operation of the device; and
+21 CFR 860.220(a)(6)(iv) (enhanced display) page 20 of 27
+21 CFR 860.220(a)(6)(v)
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(v) The relevant FDA assigned reference number(s) for any medical devices (such as accessories
+or components) that are intended to be used with the device and that are already legally
+marketed.
+(7) Alternative practices and procedures. A description of existing alternative practices or procedures
+that are used in diagnosing, treating, preventing, curing, or mitigating the disease or condition for
+which the device is intended or which similarly affect the structure or function of the body and that
+are known or should reasonably be known to the requester.
+(8) Classification summary.
+(9) (10) (11) (12) (i) For devices not the subject of a previous submission under section 510(k) of the Federal Food,
+Drug, and Cosmetic Act, a complete description of:
+(A) The searches used to establish that no legally marketed device of the same type exists.
+(B) A list of classification regulations, PMAs, HDEs, premarket notifications (510(k)s), EUAs,
+and/or product codes regarding devices that are potentially similar to the subject device.
+(C) A rationale explaining how the device that is the subject of the De Novo request is different
+from the devices covered by the classification regulations, PMAs, HDEs, 510(k)s, EUAs,
+and/or product codes identified inparagraph (a)(8)(i)(B)of this section.
+(ii) For devices which were the subject of a previous submission under section 510(k) of the
+Federal Food, Drug, and Cosmetic Act that were determined not substantially equivalent (NSE),
+the relevant 510(k) number, along with a summary of the search performed to confirm the
+device has not been classified or reclassified since the date the NSE order was issued by FDA
+pursuant to§ 807.100(a) of this chapter.
+Summary of risks and mitigations. A summary of probable risks to health associated with use of the
+device that are known or should reasonably be known to the requester and the proposed mitigations,
+including general controls and, if the classification recommendation fromparagraph (a)(11)of this
+section is class II, special controls for each risk. For each mitigation measure that involves specific
+performance testing or labeling, the De Novo request must provide a reference to the associated
+section or pages for the supporting information in the De Novo request.
+Proposed special controls.If the classification recommendation fromparagraph (a)(11)of this
+section is class II, then the summary must include an initial draft proposal for applicable special
+controls and a description of how those special controls provide reasonable assurance of safety and
+effectiveness.
+Classification recommendation. The recommended class (I or II) must be identified and must be
+supported by a description of why general controls, or general and special controls, are adequate to
+provide reasonable assurance of safety and effectiveness.
+Standards.Reference to any published voluntary consensus standards that are relevant to any
+aspect of the safety or effectiveness of the device and that are known or should reasonably be
+known to the requester. Such standards include voluntary consensus standards whether recognized
+or not yet recognized under section 514(c) of the Federal Food, Drug, and Cosmetic Act. Provide
+adequate information to demonstrate how the device meets, or justify any deviation from, the
+referenced standard.
+21 CFR 860.220(a)(12) (enhanced display) page 21 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.220(a)(13)
+(13) Summary of studies. An abstract of any information or report described in the De Novo request under
+paragraph (a)(16)(ii)of this section and a summary of the results of technical data submitted under
+paragraph (a)(15)of this section. Each such study summary must include a description of the
+(14) (15) objective of the study, a description of the experimental design of the study, a brief description of
+how the data were collected and analyzed, and a brief description of the results, whether positive,
+negative, or inconclusive. This section must also include the following:
+(i) A summary of each nonclinical study submitted in the De Novo request;
+(ii) A summary of each clinical investigation involving human subjects submitted in the De Novo
+request, including a discussion of investigation design, subject selection and exclusion criteria,
+investigation population, investigation period, safety and effectiveness data, adverse reactions
+and complications, subject discontinuation, subject complaints, device failures (including
+unexpected software events, if applicable) and replacements, results of statistical analyses of
+the clinical investigations, contraindications and precautions for use of the device, and other
+information from the clinical investigations as appropriate. Any investigation conducted under
+an investigational device exemption (IDE) underpart 812 of this chaptermust be identified as
+such.
+Benefit and risk considerations. A discussion demonstrating that:
+(i) The data and information in the De Novo request constitute valid scientific evidence within the
+meaning of§ 860.7(c)and
+(ii) Pursuant to§ 860.7, when subject to general controls, or general and special controls, the
+probable benefit to health from use of the device outweighs any probable injury or illness from
+such use.
+Technical sections. The following technical sections, which must contain data and information in
+sufficient detail to permit FDA to determine whether to grant or decline the De Novo request:
+(i) A section containing the results of the nonclinical studies of the device, including, as
+appropriate, microbiological, toxicological, immunological, biocompatibility, stress, wear, shelf
+life, electrical safety, electromagnetic compatibility, and other laboratory or animal tests.
+Information on nonclinical studies must include protocols and complete test reports for each
+study. For those nonclinical studies subject topart 58 of this chapter, this section must include
+a statement that each such study was conducted in compliance with such regulations, or, if the
+study was not conducted in compliance withpart 58 of this chapter, a brief statement of the
+reason for the noncompliance.
+(ii) For all devices that incorporate software, a section containing all relevant software information
+and testing, including, but not limited to, appropriate device hazard analysis, hardware, and
+system information.
+(iii) A section containing results of each clinical investigation of the device involving human
+subjects, including clinical protocols, number of investigators and subjects per investigator,
+investigation design, subject selection and exclusion criteria, investigation population,
+investigation period, safety and effectiveness data, adverse reactions and complications,
+subject discontinuation, subject complaints, device failures (including unexpected software
+events if applicable) and replacements, tabulations of data from all individual subject report
+forms and copies of such forms for each subject who died during a clinical investigation or
+who did not complete the investigation, results of statistical analyses of the results of the
+21 CFR 860.220(a)(15)(iii) (enhanced display) page 22 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.220(a)(15)(iii)(A)
+clinical investigations, contraindications, warnings, precautions, and other limiting statements
+relevant to the use of the device type, and any other appropriate information from the clinical
+investigations. Any investigation conducted under an IDE underpart 812 of this chaptermust
+be identified as such. Information on clinical investigations involving human subjects must
+include the following:
+(A) For clinical investigations conducted in the United States, a statement with respect to each
+investigation that it either was conducted in compliance with the institutional review board
+regulations inpart 56 of this chapter, or was not subject to the regulations under§ 56.104
+or§ 56.105 of this chapter, and that it was conducted in compliance with the informed
+consent regulations inpart 50 of this chapter; or if the investigation was not conducted in
+(B) (C) compliance with those regulations, a brief statement of the reason for the noncompliance.
+Failure or inability to comply with these requirements does not justify failure to provide
+information on a relevant clinical investigation.
+For clinical investigations conducted in the United States, a statement that each
+investigation was conducted in compliance withpart 812 of this chapterconcerning
+sponsors of clinical investigations and clinical investigators, or if the investigation was not
+conducted in compliance with those regulations, a brief statement of the reason for the
+noncompliance. Failure or inability to comply with these requirements does not justify
+failure to provide information on a relevant clinical investigation.
+For clinical investigations conducted outside the United States that are intended to
+support the De Novo request, the requirements under§ 812.28 of this chapterapply. If any
+such investigation was not conducted in accordance with good clinical practice (GCP) as
+described in§ 812.28(a) of this chapter, include either a waiver request in accordance
+with§ 812.28(c) of this chapteror a brief statement of the reason for not conducting the
+(D) (E) investigation in accordance with GCP and a description of steps taken to ensure that the
+data and results are credible and accurate and that the rights, safety, and well-being of
+subjects have been adequately protected. Failure or inability to comply with these
+requirements does not justify failure to provide information on a relevant clinical
+investigation.
+A statement that each investigation has been completed per the protocol or a summary of
+any protocol deviations.
+A financial certification or disclosure statement or both as required bypart 54 of this
+chapter.
+(F) (G) For a De Novo request that relies primarily on data from a single investigator at one
+investigation site, a justification showing that these data and other information are
+sufficient to reasonably demonstrate the safety and effectiveness of the device when
+subject to general controls or general and special controls, and to ensure that the results
+from a site are applicable to the intended population.
+A discussion of how the investigation data represent clinically significant results, pursuant
+to§ 860.7(e).
+(16) Other information.
+21 CFR 860.220(a)(16) (enhanced display) page 23 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.220(a)(16)(i)
+(b) (c) (d) (i) A bibliography of all published reports not submitted underparagraph (a)(15)of this section,
+whether adverse or supportive, known to or that should reasonably be known to the requester
+and that concern the safety or effectiveness of the device.
+(ii) An identification, discussion, and analysis of any other data, information, or report relevant to an
+evaluation of the safety and effectiveness of the device known to or that should reasonably be
+known to the requester from any source, foreign or domestic, including information derived
+from investigations other than those in the request and from commercial marketing experience.
+(iii) Copies of such published reports or unpublished information in the possession of or reasonably
+obtainable by the requester, if requested by FDA.
+(17) Samples. If requested by FDA, one or more samples of the device and its components. If it is
+impractical to submit a requested sample of the device, the requester must name the location at
+which FDA may examine and test one or more of the devices.
+(18) Labeling and advertisements. Labels, labeling, and advertisements sufficient to describe the device,
+its intended use, and the directions for its use. Where applicable, photographs or engineering
+drawings must be supplied.
+(19) Other information. Such other information as is necessary to determine whether general controls or
+general and special controls provide reasonable assurance of safety and effectiveness of the device.
+Pertinent information in FDA files specifically referred to by a requester may be incorporated into a De
+Novo request by reference. Information submitted to FDA by a person other than the requester will not be
+considered part of a De Novo request unless such reference is authorized in writing by the person who
+submitted the information.
+If the requester believes that certain information required underparagraph (a)of this section to be in a De
+Novo request is not applicable to the device that is the subject of the De Novo request, and omits any
+such information from the De Novo request, the requester must submit a statement that specifies the
+omitted information and justifies the omission. The statement must be submitted as a separate section in
+the De Novo request and listed in the table of contents. If the justification for the omission is not accepted
+by FDA, FDA will so notify the requester.
+The requester must update the pending De Novo request with new safety and effectiveness information
+learned about the device from ongoing or completed studies and investigations that may reasonably
+affect an evaluation of the safety or effectiveness of the device as such information becomes available.
+§ 860.230 Accepting a De Novo request.
+(a) The acceptance of a De Novo request means that FDA has made a threshold determination that the De
+Novo request contains the information necessary to permit a substantive review. Within 15 days after a
+De Novo request is received by FDA, FDA will notify the requester whether the De Novo request has been
+accepted.
+(b) De Novo request apply or FDA fails to complete the acceptance review within 15 days, FDA will accept the
+De Novo request for review and will notify the requester. The notice will include the De Novo request
+reference number and the date FDA accepted the De Novo request. The date of acceptance is the date
+that an accepted De Novo request was received by FDA.
+If FDA does not find that any of the reasons inparagraph (c)(1)of this section for refusing to accept the
+(c)
+21 CFR 860.230(c) (enhanced display) page 24 of 27
+21 CFR 860.230(c)(1)
+(ii) (iii) (iv) (v) (2) (3) 21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+(1) FDA may refuse to accept a De Novo request if any of the following applies:
+(i) The requester has an open or pending premarket submission or reclassification petition for the
+device;
+The De Novo request is incomplete because it does not on its face contain all the information
+required under section 513(f)(2) of the Federal Food, Drug, and Cosmetic Act or does not
+contain each of the items required under this part, or a justification for omission of any item;
+The De Novo request is not formatted as required under§ 860.210;
+The De Novo request is for multiple devices and those devices are of more than one type; or
+The requester has not responded to, or has failed to provide a rationale for not responding to,
+deficiencies identified by FDA in previous submissions for the same device, including those
+submissions described in§ 860.220(a)(3).
+If FDA refuses to accept a De Novo request, FDA will notify the requester of the reasons for the
+refusal. The notice will identify the deficiencies in the De Novo request that prevent accepting and
+will include the De Novo request reference number.
+If FDA refuses to accept a De Novo request, the requester may submit the additional information
+necessary to comply with the requirements of section 513(f)(2) of the Federal Food, Drug, and
+Cosmetic Act and this part. The additional information must include the De Novo request reference
+number of the original submission. If the De Novo request is subsequently accepted, the date of
+acceptance is the date FDA receives the additional information.
+§ 860.240 Procedures for review of a De Novo request.
+(a) FDA will begin substantive review of a De Novo request after the De Novo request is accepted under§
+860.230. Within 120 days after receipt of a De Novo request or receipt of additional information that
+results in the De Novo request being accepted under§ 860.230, FDA will review the De Novo request and
+send the requester an order granting the De Novo request under§ 860.260(a)or an order declining the De
+Novo request under 860.260(b).
+(b) A requester may supplement or amend a pending De Novo request to revise existing information or
+provide additional information.
+(1) FDA may require additional information regarding the device that is necessary for FDA to complete
+the review of the De Novo request.
+Additional information submitted to FDA must include the reference number assigned to the original
+De Novo request and, if submitted on the requester's own initiative, the reason for submitting the
+additional information.
+(c) Prior to granting or declining a De Novo request, FDA may inspect relevant facilities to help determine:
+That clinical or nonclinical data were collected in a manner that ensures that the data accurately
+represents the benefits and risks of the device; or
+That implementation of Quality System Regulation (part 820 of this chapter) requirements, in
+addition to other general controls and any specified special controls, provide adequate assurance
+that critical and/or novel manufacturing processes produce devices that meet specifications
+necessary to ensure reasonable assurance of safety and effectiveness.
+(2) (1) (2) 21 CFR 860.240(c)(2) (enhanced display) page 25 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.250
+§ 860.250 Withdrawal of a De Novo request.
+(a) FDA considers a De Novo request to have been withdrawn if:
+(1) The requester fails to provide a complete response to a request for additional information pursuant
+to§ 860.240(b)(1)within 180 days after the date FDA issues such request;
+(2) The requester fails to provide a complete response to the deficiencies identified by FDA pursuant to
+§ 860.230(c)(2)within 180 days of the date notification was issued by FDA;
+(3) The requester does not permit an authorized FDA employee an opportunity to inspect the facilities,
+pursuant to§ 860.240(c), at a reasonable time and in a reasonable manner, and to have access to
+copy and verify all records pertinent to the De Novo request; or
+(4) The requester submits a written notice to FDA that the De Novo request has been withdrawn.
+(b) If a De Novo request is withdrawn, the Agency will notify the requester. The notice will include the De Novo
+request reference number and the date FDA considered the De Novo request withdrawn.
+§ 860.260 Granting or declining a De Novo request.
+(a)
+(1) FDA will issue to the requester an order granting a De Novo request if none of the reasons in
+paragraph (c)of this section for declining the De Novo request applies.
+(b) (c) (2) If FDA grants a De Novo request, within 30 days after the issuance of an order granting the De Novo
+request, FDA will publish in theFEDERAL REGISTERa notice of the classification order, including any
+special controls.
+If FDA declines a De Novo request, FDA will issue a written order to the requester.
+FDA may decline a De Novo request if the requester fails to follow the requirements of this part or if, upon
+the basis of the information submitted in the De Novo request or any other information before FDA, FDA
+determines:
+(1) The device does not meet the criteria under section 513(a)(1) of the Federal Food, Drug, and
+Cosmetic Act and§ 860.3for classification into class I or II;
+(2) The De Novo request contains a false statement of material fact or there is a material omission;
+(3) The device's labeling does not comply with the requirements inparts 801and809 of this chapter, as
+applicable;
+(4) The product described in the De Novo request does not meet the definition of a device under section
+201(h) of the Federal Food, Drug, and Cosmetic Act and is not a combination product as defined at§
+3.2(e) of this chapter;
+(5) The device is of a type which has already been approved in existing applications for premarket
+approval (PMAs) submitted underpart 814 of this chapter;
+(6) (7) The device is of a type that has already been classified into class I, class II, or class III;
+An inspection of a relevant facility under§ 860.240(c)results in a determination that general or
+general and special controls would not provide reasonable assurance of safety and effectiveness;
+21 CFR 860.260(c)(7) (enhanced display) page 26 of 27
+21 CFR Part 860 (up to date as of 5/22/2025)
+Medical Device Classification Procedures
+21 CFR 860.260(c)(8)
+(8) A nonclinical study subject topart 58 of this chapterthat is described in the De Novo request, and
+that is essential to show there is reasonable assurance of safety, was not conducted in compliance
+withpart 58 of this chapterand no reason for the noncompliance is provided or, if a reason is
+(9) provided, the practices used in conducting the study do not support the validity of the study;
+A clinical investigation described in the De Novo request involving human subjects that is subject to
+the institutional review board regulations inpart 56 of this chapter, informed consent regulations in
+part 50 of this chapter, or GCP described in§ 812.28(a) of this chapter, was not conducted in
+(10) compliance with those regulations such that the rights or safety of human subjects were not
+adequately protected or the supporting data were determined to be otherwise unreliable;
+A clinical or nonclinical study necessary to demonstrate that general controls or general and special
+controls provide reasonable assurance of safety and effectiveness:
+(i) Has not been completed per the study protocol, or
+(ii) Deficiencies related to the investigation and identified in any request for additional information
+under§ 860.240(b)(1)have not been adequately addressed; or
+(d) (e) (11) After a De Novo request is accepted for review under§ 860.230(b), the requester makes significant
+unsolicited changes to the device's:
+(i) Indications for use; or
+(ii) Technological characteristics.
+An order declining a De Novo request will inform the requester of the deficiencies in the De Novo request,
+including each applicable ground for declining the De Novo request.
+FDA will use the criteria specified in§ 860.7to determine the safety and effectiveness of a device in
+deciding whether to grant or decline a De Novo request. FDA may use information other than that
+submitted by the requester in making such determination.
+21 CFR 860.260(e) (enhanced display) page 27 of 27
